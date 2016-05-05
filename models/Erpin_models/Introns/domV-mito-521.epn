@@ -1,0 +1,729 @@
+>structure
+000000000000000000000000000000000000000000000000000000000111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111
+112222222223333444555566663333777222222222888888888999999000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000112233333333
+>Psil.nu-nad5-i01---.mt  Plant,f_id=439971,tax_id=3240         1 FW    860:   904   1.06e-10 ../coll/intron-mito.all
+TTAAGCCGTATGCGG--GGAAA---CTCGC-ACGTGCGGTTCTT----TGAGGGGGGGGGAGCTTTAAAGAGCCTACCTATCCCGATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Cera.pu-nad2-i01---.mt  Plant,f_id=6871892,tax_id=3225        1 FW    888:   931   1.12e-10 ../coll/intron-mito.all
+ACGAGCCACATGCGG--GGAAA---CTCGC-ACGTGTGGTTCTC-----GCGGGGGAAAAAGCACCCTATCGGTAnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Andr.ni-nad2-i01---.mt  Plant,f_id=6871820,tax_id=64624       1 FW    888:   932   1.14e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAA--GGAAA---CTTGC-ACGTGTGGTTCTG----ACCGGGGGGTAAGAACCCTATCGGTAnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Atri.un-nad2-i01---.mt  Plant,f_id=6871826,tax_id=38592       1 FW    914:   958   1.14e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAA--GGAAA---CTTGC-ACGTGTGGTTCGG----ACCGGGGGGTAAGAnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Tetr.pe-nad2-i01---.mt  Plant,f_id=6871838,tax_id=37420       1 FW    932:   976   1.14e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAA--GGAAA---CTTGC-ACGTGTGGTTCTG----ACCGGGGGGTAAGAnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Pogo.ur-nad2-i01---.mt  Plant,f_id=6871832,tax_id=111665      1 FW    914:   958   1.14e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAA--GGAAA---CTTGC-ACGTGTGGTTCTG----ACCGGGGGGTAAGAnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Taka.le-nad2-i01---.mt  Plant,f_id=6871814,tax_id=37425       1 FW    940:   984   1.14e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAA--GGAAA---CTTGC-ACGTGTGGTTCTG----ACCGGGGGGTAAGAACCTATCGGTAnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Poly.au-nad5-i01---.mt  Plant,f_id=439979,tax_id=49545        1 FW    848:   895   1.23e-10 ../coll/intron-mito.all
+TTGAGCCGTATGCGA--GGAAA---CTTGC-ACGTGCGGTTCTTTG-CTTTGAGGGGGGAAAGCTTGAAAGAGCGTATCCATCCTGATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Aspl.ni-nad5-i01---.mt  Plant,f_id=439913,tax_id=29642        1 FW    865:   912   1.23e-10 ../coll/intron-mito.all
+TTGAGCCGTATGCGA--GGAAA---CTTGC-ACGTGCGGTTCTTTG-CTTTGAGGGGGGAAAGCTTGAAAGAGCCTATCCATCCTGATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Bolb.he-nad5-i01---.mt  Plant,f_id=439917,tax_id=84612        1 FW    854:   901   1.23e-10 ../coll/intron-mito.all
+TTGAGCCGTATGCGA--GGAAA---CTTGC-ACGTGCGGTTCTTTG-CTTTGAGGGGGGAAAGCTTGAAAGAGCCTATCCATCCTGATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Salv.au-nad5-i01---.mt  Plant,f_id=439985,tax_id=34166        1 FW    809:   851   1.23e-10 ../coll/intron-mito.all
+TTGAGCCGTATGCGA--GGAAA---CTTGC-ACGTGCGGTTCT------TTGAGGGGGAAAAGCTTGAAAGAGCCTATCCATCCCGATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Aspl.ni-nad5-i01-II.mt  Plant,f_id=406963,tax_id=29642        1 FW    865:   912   1.23e-10 ../coll/intron-mito.all
+TTGAGCCGTATGCGA--GGAAA---CTTGC-ACGTGCGGTTCTTTG-CTTTGAGGGGGGAAAGCTTGAAAGAGCCTATCCATCCTGATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Dood.di-nad5-i01---.mt  Plant,f_id=439929,tax_id=86336        1 FW    855:   902   1.23e-10 ../coll/intron-mito.all
+TTGAGCCGTATGCGA--GGAAA---CTTGC-ACGTGCGGTTCTTTG-CTTTGAGGGGGGAAAGCTTGAAAGAGCCTATCCATCCTGATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Blec.br-nad5-i01---.mt  Plant,f_id=439915,tax_id=32072        1 FW    860:   907   1.23e-10 ../coll/intron-mito.all
+TTGAGCCGTATGCGA--GGAAA---CTTGC-ACGTGCGGTTCTTTG-CTTTGAGGGGGGAAAGCTTGAAAGAGCCTATCCATCCTGATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Quer.ze-nad5-i01---.mt  Plant,f_id=439983,tax_id=85334        1 FW    844:   891   1.23e-10 ../coll/intron-mito.all
+TTGAGCCGTATGCGA--GGAAA---CTTGC-ACGTGCGGTTCTTTG-CTTTGAGGGGGGAAAGCTTGAAAGAGCGTATCCATCCTGATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Char.vu-cob--i01-II.mt  Plant,f_id=6214189,tax_id=55564       1 RC     42:    81   1.23e-10 ../coll/intron-mito.all
+GAGAGCCGTATGATA--GGTGA---CTATC-TCGTACGGTTC---------GGAGAGGACTCGAGTAATCACCTGTGGGTGTGAAAGTTTCACTCTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Plat.al-nad5-i01---.mt  Plant,f_id=439977,tax_id=85331        1 FW    856:   903   1.23e-10 ../coll/intron-mito.all
+TTGAGCCGTATGCGA--GGAAA---CTTGC-ACGTGCGGTTCTTTG-CTTTGAGGGGGGAAAGCTTGAAAGAGCGTATCCATCCTGATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Dipl.pr-nad5-i01---.mt  Plant,f_id=439927,tax_id=84610        1 FW    844:   892   1.23e-10 ../coll/intron-mito.all
+TTGAGCCGTATGCGAA-GGAAA---CTTGC-ACGTGCGGTTCTTTG-CTTTGAGGGGGGAAAGCTTGAAAGAGCCTATCCATCCTGATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Poly.cr-nad5-i01---.mt  Plant,f_id=439981,tax_id=85332        1 FW    849:   896   1.23e-10 ../coll/intron-mito.all
+TTGAGCCGTATGCGA--GGAAA---CTTGC-ACGTGCGGTTCTTTG-CTTTGAGGGGGGAAAGCTTGAAAGAGCGTATCCATCCTGATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Azol.fi-nad5-i01---.mt  Plant,f_id=439909,tax_id=84609        1 FW    849:   891   1.23e-10 ../coll/intron-mito.all
+TTGAGCCGTATGCGA--GGAAA---CTTGC-ACGTGCGGTTCT------TTGAGGGGGAAAAGCTTGCTTGAAAGAGCCTATCCATCCCGATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Steg.wi-nad5-i01---.mt  Plant,f_id=439987,tax_id=85335        1 FW    843:   890   1.23e-10 ../coll/intron-mito.all
+TTGAGCCGTATGCGA--GGAAA---CTTGC-ACGTGCGGTTCTTTG-CTTTGAGGGGGGAAAGCTTGAAAGAGCCTATCCATCCTGATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Cyrt.fa-nad5-i01---.mt  Plant,f_id=439923,tax_id=84614        1 FW    847:   894   1.23e-10 ../coll/intron-mito.all
+TTGAGCCGTATGCGA--GGAAA---CTTGC-ACGTGCGGTTCTTTG-CTTTGAGGGGGGAAAGCTTGAAAGAGCCTATCCATCCTGATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Marc.po-cob--i03---.mt  Plant,f_id=404275,tax_id=3197         1 FW   2884:  2928   1.29e-10 ../coll/intron-mito.all
+GGGAGCCGTATGAGC--GGTAA---CGTTC-ACGTACGGTTCTG----TGAGAAGGGTTGGGGACGGAAATGGCCCCATTCCCTTACTCTCGnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Mniu.sp-nad1-i01---.mt  Plant,f_id=6737312,tax_id=254649      1 FW    699:   738   1.31e-10 ../coll/intron-mito.all
+GAGAGCTGTATGACG---GAAAA--CTGTC-ACGTATGGTTC---------GGAGGGCGGGGAAATCTCCGACCCCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Plag.in-nad1-i00---.mt  Plant,f_id=6873900,tax_id=259530      1 FW    699:   738   1.31e-10 ../coll/intron-mito.all
+GAGAGCTGTATGACG---GAAAA--CTGTC-ACGTATGGTTC---------GGAGGGCGGGGAAATCTCCGACCCCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Plag.me-nad1-i00---.mt  Plant,f_id=6873904,tax_id=259531      1 FW    699:   738   1.31e-10 ../coll/intron-mito.all
+GAGAGCTGTATGACG---GAAAA--CTGTC-ACGTATGGTTC---------GGAGGGCGGGGAAATCTCCGACCCCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Spha.re-nad1-i01---.mt  Plant,f_id=6737297,tax_id=81808       1 FW    689:   728   1.31e-10 ../coll/intron-mito.all
+GAGAGCTGTATGACG--GGAAA---CTGTC-ACGTATGGTTC---------GGAGGGCGAAGAAATCAATTATCGACCCCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Plag.el-nad1-i00---.mt  Plant,f_id=6873888,tax_id=259529      1 FW    701:   740   1.31e-10 ../coll/intron-mito.all
+GAGAGCTGTATGACG---GAAAA--CTGTC-ACGTATGGTTC---------GGAGGGCGGGGAAATCTCCGACCCCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Taka.ce-nad1-i01---.mt  Plant,f_id=6737322,tax_id=253518      1 FW    711:   750   1.31e-10 ../coll/intron-mito.all
+GAGAGCTGTATGACG--GGAAA---CTGTC-ACGTATGGTTC---------GGAGGGCGGGGAAATCCCCGACCCCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Plag.cu-nad1-i00---.mt  Plant,f_id=6873896,tax_id=259528      1 FW    699:   738   1.31e-10 ../coll/intron-mito.all
+GAGAGCTGTATGACG---GAAAA--CTGTC-ACGTATGGTTC---------GGAGGGCGGGGAAATCTCCGACCCCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Plag.el-nad1-i00---.mt  Plant,f_id=6873892,tax_id=185664      1 FW    699:   738   1.31e-10 ../coll/intron-mito.all
+GAGAGCTGTATGACG---GAAAA--CTGTC-ACGTATGGTTC---------GGAGGGCGGGGAAATCTCCGACCCCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Ophi.lu-nad1-i01---.mt  Plant,f_id=6737513,tax_id=253512      1 FW   2535:  2574   1.43e-10 ../coll/intron-mito.all
+GAGAGCTGTATGACG--AGAGA---CTGCC-ACGTACGGTTC---------GGAGGGCAGCCTGACTGACCCCTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Isoe.sp-nad1-i01---.mt  Plant,f_id=6737337,tax_id=254650      1 FW    438:   477   1.52e-10 ../coll/intron-mito.all
+TAGAGCCGTATGCGC--GGTGA---CGTGC-TCGTACGGTTC---------GGAGAGGACTCTACACCGCTGGCTGTGGTGGATGGTGGTTTCACTCTGTnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Isoe.la-nad1-i01-II.mt  Plant,f_id=425255,tax_id=50271        1 FW    438:   477   1.52e-10 ../coll/intron-mito.all
+TAGAGCCGTATGCGC--GGTGA---CGTGC-TCGTACGGTTC---------GGAGAGGACTCTACACCGCTGGCTGTGGTGGATGGTGGTTTCACTCTGTnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Marc.po-nad4Li02---.mt  Plant,f_id=404255,tax_id=3197         1 FW   1030:  1069   1.53e-10 ../coll/intron-mito.all
+GAGAGCCGTATGATG--GGCGA---CCATC-TCGTACGGTTC---------GGAGAGGGCTCGAGTACCAATGCATTCAATATGTGTCTGGGAAAGAACAAATATATATATATATATATATATATTTATCCACTCTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Anth.ag-nad1-i01---.mt  Plant,f_id=6737471,tax_id=41834       1 FW    684:   723   1.53e-10 ../coll/intron-mito.all
+GAGAGCCCTATGACA--GGAAA---CTGTC-ACGTATGGTTC---------GGAGGGCGGGTAAATCCCCGACCCCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Char.vu-rps3-i01-II.mt  Plant,f_id=6214137,tax_id=55564       1 RC     61:   100   1.54e-10 ../coll/intron-mito.all
+GAGAGCCGTGTGATG--GGCGA---CCATC-TCGCACGGTTC---------GGAGAGCACTTGTTACGGCTGAATAGATGAACTACTACGGTCTATCAGTTTAACTCTTGACTCAATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Char.vu-atp9-i02-II.mt  Plant,f_id=6214134,tax_id=55564       1 RC     62:   101   1.54e-10 ../coll/intron-mito.all
+GAGAGCCGTGTGATG--GGCGA---CCATC-TCGCACGGTTC---------GGAGAGCACTTGTTACGACCGTCTAGGCTCGACTCTTCGAGCCTAGCGGTGGAACTCTTGACTCTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Hupe.lu-nad1-i04---.mt  Plant,f_id=6737331,tax_id=37429       1 FW   3304:  3348   1.70e-10 ../coll/intron-mito.all
+CGGAGCCGTATGACT--CGAGA---GTGTC-ACGTACGGTTCTT----TGAGAAGGGAGTTTATATACCTATCGGCCCCGCACAGGAGCTGCGCCCTTACTCTCCnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Chae.pr-nad1-i02---.mt  Plant,f_id=6302365,tax_id=109108      1 FW   1325:  1369   1.74e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGGCCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Char.vu-trnN-i01-II.mt  Plant,f_id=6214179,tax_id=55564       1 FW    530:   570   1.84e-10 ../coll/intron-mito.all
+GAGAGCCGTGTGCTT--GGAAAT--CTTGC-ACGCACGGTTC---------GGAGGGAAGCTTAGTCAGATTACACACACTGCTTACCCTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Dich.pe------i01---.mt  Plant,f_id=614872,tax_id=98482        1 FW    939:   981   2.09e-10 ../coll/intron-mito.all
+ACGAGCCCTATGCGA--GGAGA---CTCGC-ACGTACGGTTCT------TAGGGGGGTTCCGGCTGAAAGATCGGCGCCTACCCAACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Vici.fa------i00-II.mt  Plant,f_id=621607,tax_id=3906         1 FW   3038:  3083   2.18e-10 ../coll/intron-mito.all
+CGGAGCCGTATGACG--CGAGA---GTCTC-ACGTACGGTTCCTT---TGAGAAGGGTGTGAGACCACCACCTATCAGGCCCGACGAGCGGTCCACGGAGCTGCATCCCTACTCACCnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Char.vu-cob--i02-II.mt  Plant,f_id=6214188,tax_id=55564       1 RC     36:    75   2.47e-10 ../coll/intron-mito.all
+AAGAGCCATATGAGG--CGAAA---GTCTC-ACGTATGGTTC---------GGAAGCCGAGCCATATCAGCAATGAGATGGTTTAGGTTAACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Marc.po-cox1-i02---.mt  Plant,f_id=404297,tax_id=3197         1 RC     33:    72   2.93e-10 ../coll/intron-mito.all
+GCGAGCCGTTTGAGG--TGAAA---GCCTC-ACGTACGGTTC---------TGAGGGCAGCTGTGTTGAAAGACCTGACTGACCCCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Schi.oc-cox2-i01---.mt  Fungi,f_id=6060766,tax_id=4899        1 FW   2360:  2402   2.96e-10 ../coll/intron-mito.all
+GAAAGCCGTATGCAG--GGAAA---CTTGC-ACGTACGGTTTG------GTGGAAGGTTTCTCATAACCCAAGAGGTGTGGAAAATCGATCCAACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Marc.po-rps14i01---.mt  Plant,f_id=404250,tax_id=3197         1 FW    820:   866   2.97e-10 ../coll/intron-mito.all
+AGGAGCCGTATGATG--GGAGA---CTATC-ACGTACGGTTTTGA--ATCAGGGGCGTCAGAGGAAATTCCACGTCTACTGTAACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Char.vu-nad4-i01-II.mt  Plant,f_id=6214166,tax_id=55564       1 FW   1604:  1643   3.10e-10 ../coll/intron-mito.all
+GAGAGCCGTATGATA--GGTGA---CTATC-TCGTACGGTTC---------GGAGAGGACTCGAGTACCGCTGGCATGTTTTGCTCAGTGGGGAAGTTTCACTCTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Pyla.li-cox1-i01---.mt  Protista,f_id=130347,tax_id=2885      1 FW   2346:  2385   3.28e-10 ../coll/intron-mito.all
+GAAAGCCGTATGAGG--GGAAA---CTTTC-ACGTACGGTTT---------GGAGGAAAGTCGGGAAGCTCTAAGGTATTTGCTATGAACTCTCGGCTCATCCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Pyla.li-cox1-i01---.mt  Protista,f_id=7018994,tax_id=2885     1 FW   2346:  2385   3.28e-10 ../coll/intron-mito.all
+GAAAGCCGTATGAGG--GGAAA---CTTTC-ACGTACGGTTT---------GGAGGAAAGTCGGGAAGCTCTAAGGTATTTGCTATGAACTCTCGGCTCATCCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Pyla.li-rnl--i03---.mt  Protista,f_id=7018960,tax_id=2885     1 FW   1101:  1143   3.33e-10 ../coll/intron-mito.all
+TTGAGCCGTGTGCGT--TGAAA---GATGC-ATGCACGGTTCT------TAGGGGGGGAAAGCCGGTAACCGTACCTATCCCAATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Podo.cu-nad5-i01---.mt  Fungi,f_id=22794,tax_id=48157         1 FW   2860:  2901   3.34e-10 ../coll/intron-mito.all
+GAGAGCCGTATGATG--GGAAA---CTATC-ACGTACGGTTCG-------GGAAAAGGTAAATATACTGGTAAGAGGTATACGTATCTAGTTCATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Podo.an-nad5-i04---.mt  Fungi,f_id=470057,tax_id=5145         1 FW   2544:  2585   3.34e-10 ../coll/intron-mito.all
+GAGAGCCGTATGATG--GGAAA---CTATC-ACGTACGGTTCG-------GGAAAAGGTATATATACTGATAAGAGGTATACGTATCTAGTTCATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Spha.re-nad1-i02---.mt  Plant,f_id=6737298,tax_id=81808       1 FW   1353:  1397   3.41e-10 ../coll/intron-mito.all
+CGGAGCCGTATGACG--GGCGA---CTGTC-ATGTACGGTTCTT----TGGGAAGGGAGTAGATACCTATTTTCAGGCCCGAGCGGGCTACGAAGCTGCGCCCTTACTCTTCnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Spha.re-nad1-i01---.mt  Plant,f_id=434374,tax_id=81808        1 FW   1353:  1397   3.41e-10 ../coll/intron-mito.all
+CGGAGCCGTATGACG--GGCGA---CTGTC-ATGTACGGTTCTT----TGGGAAGGGAGTAGATACCTATTWTCAGGCCCGAGCGGGCTACGAACGTGCGCCCTTACTCTTCnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Cyca.re-nad1-i01---.mt  Plant,f_id=6737367,tax_id=3396        1 FW   1226:  1270   3.86e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTCCTG----ACCGGGGGGAGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Spha.fa-nad2-i01---.mt  Plant,f_id=6871808,tax_id=53036       1 FW    938:   985   3.97e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAA--GGAAA---CTTGC-ACGTGTGGTTCTGAC-CGAGGGGGAGGATAAGAACCCTATCGGTAnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Ulot.cr-nad5-i01---.mt  Plant,f_id=6736580,tax_id=140636      1 FW    701:   740   3.98e-10 ../coll/intron-mito.all
+GTGAGCCGTGTGATA--GGTAA---CTATC-TCGCACGGTTC---------GGGGAGCACTTTATTATTTTACTCGAGTGAACGGCCGCCGCATTGCGGTACGCAAAAAATTTCCTGCTTGATTCTGCGATTCAAGGCCCCGGTAAAATAAAACTTTTGACTCTGTnn
+>Rhac.pu-nad5-i01---.mt  Plant,f_id=6736600,tax_id=52993       1 FW    701:   740   3.98e-10 ../coll/intron-mito.all
+GTGAGCCGTGTGATA--GGTAA---CTATC-TCGCACGGTTC---------GGGGAGCACTTTATTATTTTACTTGAGTGAACCGGCCSGCGCATTGCGGTACGCACAAAATTTCCTGCTTGATTCTGCGATTCAAGGCCCCAGTAAAATAAAACTTTTGACTCTGTn
+>Enca.st-nad5-i01---.mt  Plant,f_id=6736570,tax_id=81092       1 FW    683:   722   3.98e-10 ../coll/intron-mito.all
+GTGAGCCGTGTGATA--GGTAA---CTATC-TCGCACGGTTC---------GGGGAGCACTTTATTATTTTACTTGGGTGAACGGCCGCCGCATTGCAGTACGCAAAAAATTTCCTGCTTGATTCTGCGATTCAAGGCCCCAGTAAAATAAAACTTTTGACTCTGTnn
+>Bart.ha-nad1-i02---.mt  Plant,f_id=6737428,tax_id=65528       1 FW    745:   789   4.39e-10 ../coll/intron-mito.all
+CGGAGCCGTATGACA--CGAGA---GTGTC-ATGTACGGTTCTT----TGAGAAGGGTGTGAATATCTATTATTCTCAGGCCCCAAGGGGCCACGAAGCTGCACCCTTACTCTCCnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Noto.br-nad1-i01---.mt  Plant,f_id=6737498,tax_id=81810       1 FW    709:   748   4.43e-10 ../coll/intron-mito.all
+GAGAGCTCTATGACG--GGAAA---CTGTC-ACGTATGGTTC---------GGAGGGCGGGGAAAGAATCCCTGACCCCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Diph.fo-nad1-i01---.mt  Plant,f_id=6737302,tax_id=82928       1 FW    703:   742   4.43e-10 ../coll/intron-mito.all
+GAGAGCTCTATGACG--GGAAA---CTGTC-ACGTATGGTTC---------GGAGGGCGGGGAAATCTCCGACCCCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Mars.dr-nad2-i01-II.mt  Plant,f_id=406978,tax_id=51786        1 FW   1254:  1296   5.33e-10 ../coll/intron-mito.all
+GCAAGCCGTATGCAG--TGGAA---GTTGC-ACGTACGGTTAC------GAGGGGGGTTCGCGTCTATACGTGGAGTGTGGATGGGAGCCTATGCCGCCCTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.kl-nad1-i02---.mt  Plant,f_id=6302320,tax_id=225591      1 FW   1293:  1337   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATAnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.cu-nad1-i02---.mt  Plant,f_id=6214501,tax_id=225589      1 FW   1293:  1337   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATAnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Heli.mu-nad1-i02---.mt  Plant,f_id=6301333,tax_id=202906      1 FW   1131:  1175   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Arum.it-nad1-i02---.mt  Plant,f_id=6301317,tax_id=59010       1 FW   1131:  1175   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.ha-nad1-i02---.mt  Plant,f_id=6302308,tax_id=225608      1 FW   1293:  1337   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATAnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Steu.co-nad1-i02---.mt  Plant,f_id=6301309,tax_id=227244      1 FW   1142:  1186   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Cory.co-nad1-i02---.mt  Plant,f_id=6018503,tax_id=101193      1 FW   1447:  1491   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Glyc.ma-nad1-i02---.mt  Plant,f_id=6018513,tax_id=3847        1 FW   1414:  1458   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTAnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Ther.da-nad1-i02---.mt  Plant,f_id=6301345,tax_id=227254      1 FW   1131:  1175   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.la-nad1-i02---.mt  Plant,f_id=6302324,tax_id=225592      1 FW   1293:  1337   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATAnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Aloc.cu-nad1-i02---.mt  Plant,f_id=6301297,tax_id=227242      1 FW   1149:  1193   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.ma-nad1-i02---.mt  Plant,f_id=6302340,tax_id=225593      1 FW   1296:  1340   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATAnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Drac.ca-nad1-i02---.mt  Plant,f_id=6301325,tax_id=227248      1 FW   1131:  1175   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Biar.da-nad1-i02---.mt  Plant,f_id=6301321,tax_id=227246      1 FW   1119:  1163   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Typh.al-nad1-i02---.mt  Plant,f_id=6301349,tax_id=227255      1 FW   1131:  1175   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.af-nad1-i02---.mt  Plant,f_id=6302336,tax_id=225605      1 FW   1300:  1344   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATAnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Acti.de-nad1-i02---.mt  Plant,f_id=6199800,tax_id=3627        1 FW   1404:  1448   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Paga.sp-nad1-i02---.mt  Plant,f_id=6302386,tax_id=241617      1 FW   1311:  1355   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Prot.se-nad1-i02---.mt  Plant,f_id=6301341,tax_id=227252      1 FW   1136:  1180   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Xant.sa-nad1-i02---.mt  Plant,f_id=6301365,tax_id=28478       1 FW   1151:  1195   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.ha-nad1-i02---.mt  Plant,f_id=6302312,tax_id=225609      1 FW   1293:  1337   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATAnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Aris.fl-nad1-i02---.mt  Plant,f_id=6301289,tax_id=227241      1 FW   1131:  1175   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Paga.sp-nad1-i02---.mt  Plant,f_id=6302379,tax_id=241618      1 FW   1310:  1354   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Trim.mo-nad1-i02---.mt  Plant,f_id=6214528,tax_id=108436      1 FW   1362:  1406   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Citr.la-nad1-i02---.mt  Plant,f_id=400241,tax_id=3654         1 FW   1381:  1425   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATACTGTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.la-nad1-i02---.mt  Plant,f_id=6302328,tax_id=225592      1 FW   1293:  1337   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATAnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Acti.ch-nad1-i02---.mt  Plant,f_id=6199807,tax_id=3625        1 FW   1414:  1458   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Cala.bi-nad1-i02---.mt  Plant,f_id=6301369,tax_id=174190      1 FW   1151:  1195   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Maho.be-nad1-i02---.mt  Plant,f_id=6873599,tax_id=13601       1 FW   1012:  1056   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATACTGTACTAATATGTGTAGGTCCCCGTAATTCGnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.af-nad1-i02---.mt  Plant,f_id=6302332,tax_id=225604      1 FW   1293:  1337   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATAnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Pine.te-nad1-i02---.mt  Plant,f_id=6301281,tax_id=199225      1 FW   1126:  1170   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Colo.gi-nad1-i02---.mt  Plant,f_id=6301301,tax_id=227243      1 FW   1149:  1193   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.ha-nad1-i02---.mt  Plant,f_id=6302304,tax_id=225607      1 FW   1293:  1337   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATAnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Typh.gi-nad1-i02---.mt  Plant,f_id=6301353,tax_id=227256      1 FW   1131:  1175   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Acti.ko-nad1-i02---.mt  Plant,f_id=6199793,tax_id=165710      1 FW   1415:  1459   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Aris.ar-nad1-i02---.mt  Plant,f_id=6301285,tax_id=227240      1 FW   1126:  1170   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Aris.to-nad1-i02---.mt  Plant,f_id=6301293,tax_id=175759      1 FW   1131:  1175   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Acti.se-nad1-i02---.mt  Plant,f_id=6199779,tax_id=64481       1 FW   1416:  1460   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Typh.tr-nad1-i02---.mt  Plant,f_id=6301357,tax_id=227257      1 FW   1131:  1175   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.af-nad1-i02---.mt  Plant,f_id=6302344,tax_id=225602      1 FW   1293:  1337   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATAnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Acti.ch-nad1-i02---.mt  Plant,f_id=6199814,tax_id=3625        1 FW   1414:  1458   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Pist.st-nad1-i02---.mt  Plant,f_id=6301337,tax_id=4477        1 FW   1133:  1177   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Remu.vi-nad1-i02---.mt  Plant,f_id=6301305,tax_id=189456      1 FW   1138:  1182   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Acti.se-nad1-i02---.mt  Plant,f_id=6199786,tax_id=64481       1 FW   1416:  1460   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Emin.sp-nad1-i02---.mt  Plant,f_id=6301329,tax_id=227250      1 FW   1131:  1175   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Petu.hy-nad1-i02---.mt  Plant,f_id=2191,tax_id=4102           1 FW    935:   979   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.kl-nad1-i02---.mt  Plant,f_id=6302316,tax_id=225591      1 FW   1293:  1337   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATAnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.pa-nad1-i02---.mt  Plant,f_id=6302360,tax_id=33153       1 FW   1293:  1337   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATAnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.ha-nad1-i02---.mt  Plant,f_id=6302300,tax_id=225606      1 FW   1293:  1337   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATAnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Pine.co-nad1-i02---.mt  Plant,f_id=6211792,tax_id=199220      1 FW   1126:  1170   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Pelt.vi-nad1-i02---.mt  Plant,f_id=6301361,tax_id=78376       1 FW   1152:  1196   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.af-nad1-i02---.mt  Plant,f_id=6302348,tax_id=225603      1 FW   1293:  1337   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATAnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Ario.pe-nad1-i02---.mt  Plant,f_id=6301313,tax_id=28474       1 FW   1146:  1190   5.94e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Oeno.be-nad1-i02---.mt  Plant,f_id=7018297,tax_id=3950        1 FW   1412:  1456   7.11e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGAGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Prim.au-nad1-i02---.mt  Plant,f_id=6302372,tax_id=184173      1 FW   1413:  1457   7.11e-10 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTCTG----GCCGGAGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Hypn.cu-nad1-i01---.mt  Plant,f_id=6737457,tax_id=53011       1 FW    728:   767   7.71e-10 ../coll/intron-mito.all
+GAGAGCTTTATGACG--GGAAA---CTGTC-ACGTAAGGTTC---------GGAGGGCGGGGAAATCTCCGACCCCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Brac.ru-nad1-i01---.mt  Plant,f_id=6737452,tax_id=53005       1 FW    728:   767   7.71e-10 ../coll/intron-mito.all
+GAGAGCTTTATGACG--GGAAA---CTGTC-ACGTAAGGTTC---------GGAGGGCGGGGAAATCTCCGACCCCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Thui.re-nad1-i01---.mt  Plant,f_id=6737447,tax_id=84223       1 FW    728:   767   7.71e-10 ../coll/intron-mito.all
+GAGAGCTTTATGACG--GGAAA---CTGTC-ACGTAAGGTTC---------GGAGGGCGGGGAAATCTCCGACCCCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Anom.vi-nad1-i01---.mt  Plant,f_id=6737442,tax_id=253516      1 FW    728:   767   7.71e-10 ../coll/intron-mito.all
+GAGAGCTTTATGACG---GAAAA--CTGTC-ACGTAAGGTTC---------GGAGGGCGGGGAAATCTCCGACCCCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.ne-nad1-i02---.mt  Plant,f_id=6302505,tax_id=225594      1 FW   1604:  1648   8.39e-10 ../coll/intron-mito.all
+GCGAGCCCCATGCGG--GGAAA---CTTGC-ACGTGTGGTTCTT----ACCGGGCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.wo-nad1-i02---.mt  Plant,f_id=6302530,tax_id=225597      1 FW   1190:  1234   8.39e-10 ../coll/intron-mito.all
+ACGAGCCCCATGCGG--GGAAA---CTTGC-ACGTGTGGTTCTT----ACCGGGCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.kl-nad1-i02---.mt  Plant,f_id=6302460,tax_id=225591      1 FW   1382:  1426   8.39e-10 ../coll/intron-mito.all
+GCGAGCCCCATGCGG--GGAAA---CTTGC-ACGTGTGGTTCTT----ACCGGGCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.af-nad1-i02---.mt  Plant,f_id=6302480,tax_id=225605      1 FW   1637:  1681   8.39e-10 ../coll/intron-mito.all
+GCGAGCCCCATGCGG--GGAAA---CTTGC-ACGTGTGGTTCTT----ACCGGGCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.af-nad1-i02---.mt  Plant,f_id=6302490,tax_id=225602      1 FW   1632:  1676   8.39e-10 ../coll/intron-mito.all
+GCGAGCCCCATGCGG--GGAAA---CTTGC-ACGTGTGGTTCTT----ACCGGGCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.cu-nad1-i02---.mt  Plant,f_id=6302399,tax_id=225589      1 FW   1633:  1677   8.39e-10 ../coll/intron-mito.all
+GCGAGCCCCATGCGG--GGAAA---CTTGC-ACGTGTGGTTCTT----ACCGGGCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.pa-nad1-i02---.mt  Plant,f_id=6302515,tax_id=33153       1 FW   1601:  1645   8.39e-10 ../coll/intron-mito.all
+GCGAGCCCCATGCGG--GGAAA---CTTGC-ACGTGTGGTTCTT----ACCGGGCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.ur-nad1-i02---.mt  Plant,f_id=6302525,tax_id=45079       1 FW   1077:  1121   8.39e-10 ../coll/intron-mito.all
+ACGAGCCCCATGCGG--GGAAA---CTTGC-ACGTGTGGTTCTT----ACCGGGCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.af-nad1-i02---.mt  Plant,f_id=6302495,tax_id=225603      1 FW   1630:  1674   8.39e-10 ../coll/intron-mito.all
+GCGAGCCCCATGCGG--GGAAA---CTTGC-ACGTGTGGTTCTT----ACCGGGCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.sp-nad1-i02---.mt  Plant,f_id=6302535,tax_id=225601      1 FW   1598:  1642   8.39e-10 ../coll/intron-mito.all
+GCGAGCCCCATGCGG--GGAAA---CTTGC-ACGTGTGGTTCTT----ACCGGGCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.pa-nad1-i02---.mt  Plant,f_id=6302500,tax_id=226935      1 FW   1153:  1197   8.39e-10 ../coll/intron-mito.all
+GCGAGCCCCATGCGG--GGAAA---CTTGC-ACGTGTGGTTCTT----ACCGGGCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.gn-nad1-i02---.mt  Plant,f_id=6302425,tax_id=225596      1 FW   1732:  1776   8.39e-10 ../coll/intron-mito.all
+GCGAGCCCCATGCGG--GGAAA---CTTGC-ACGTGTGGTTCTT----ACCGGGCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.gn-nad1-i02---.mt  Plant,f_id=6302415,tax_id=3382        1 FW   1728:  1772   8.39e-10 ../coll/intron-mito.all
+GCGAGCCCCATGCGG--GGAAA---CTTGC-ACGTGTGGTTCTT----ACCGGGCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.ha-nad1-i02---.mt  Plant,f_id=6302435,tax_id=225606      1 FW   1601:  1645   8.39e-10 ../coll/intron-mito.all
+GCGAGCCCCATGCGG--GGAAA---CTTGC-ACGTGTGGTTCTT----ACCGGGCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.kl-nad1-i02---.mt  Plant,f_id=6302455,tax_id=225591      1 FW   1382:  1426   8.39e-10 ../coll/intron-mito.all
+GCGAGCCCCATGCGG--GGAAA---CTTGC-ACGTGTGGTTCTT----ACCGGGCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.la-nad1-i02---.mt  Plant,f_id=6302465,tax_id=225592      1 FW   1592:  1636   8.39e-10 ../coll/intron-mito.all
+GCGAGCCCCATGCGG--GGAAA---CTTGC-ACGTGTGGTTCTT----ACCGGGCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.la-nad1-i02---.mt  Plant,f_id=6302470,tax_id=225592      1 FW   1592:  1636   8.39e-10 ../coll/intron-mito.all
+GCGAGCCCCATGCGG--GGAAA---CTTGC-ACGTGTGGTTCTT----ACCGGGCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.gn-nad1-i02---.mt  Plant,f_id=6302420,tax_id=3382        1 FW   1728:  1772   8.39e-10 ../coll/intron-mito.all
+GCGAGCCCCATGCGG--GGAAA---CTTGC-ACGTGTGGTTCTT----ACCGGGCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.ne-nad1-i02---.mt  Plant,f_id=6302510,tax_id=225594      1 FW   1604:  1648   8.39e-10 ../coll/intron-mito.all
+GCGAGCCCCATGCGG--GGAAA---CTTGC-ACGTGTGGTTCTT----ACCGGGCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.di-nad1-i02---.mt  Plant,f_id=6302405,tax_id=225595      1 FW   1403:  1447   8.39e-10 ../coll/intron-mito.all
+GCGAGCCCCATGCGG--GGAAA---CTTGC-ACGTGTGGTTCTT----ACCGGGCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.af-nad1-i02---.mt  Plant,f_id=6302475,tax_id=225604      1 FW   1595:  1639   8.39e-10 ../coll/intron-mito.all
+GCGAGCCCCATGCGG--GGAAA---CTTGC-ACGTGTGGTTCTT----ACCGGGCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.sp-nad1-i02---.mt  Plant,f_id=6302540,tax_id=225600      1 FW   1586:  1630   8.39e-10 ../coll/intron-mito.all
+GCGAGCCCCATGCGG--GGAAA---CTTGC-ACGTGTGGTTCTT----ACCGGGCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.ha-nad1-i02---.mt  Plant,f_id=6302445,tax_id=225608      1 FW   1599:  1643   8.39e-10 ../coll/intron-mito.all
+GCGAGCCCCATGCGG--GGAAA---CTTGC-ACGTGTGGTTCTT----ACCGGGCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.gn-nad1-i02---.mt  Plant,f_id=6302430,tax_id=225596      1 FW   1732:  1776   8.39e-10 ../coll/intron-mito.all
+GCGAGCCCCATGCGG--GGAAA---CTTGC-ACGTGTGGTTCTT----ACCGGGCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.di-nad1-i02---.mt  Plant,f_id=6302410,tax_id=225595      1 FW   1403:  1447   8.39e-10 ../coll/intron-mito.all
+GCGAGCCCCATGCGG--GGAAA---CTTGC-ACGTGTGGTTCTT----ACCGGGCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.ul-nad1-i02---.mt  Plant,f_id=6302520,tax_id=3383        1 FW   1377:  1421   8.39e-10 ../coll/intron-mito.all
+GCGAGCCCCATGCGG--GGAAA---CTTGC-ACGTGTGGTTCTT----ACCGGGCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.ha-nad1-i02---.mt  Plant,f_id=6302450,tax_id=225609      1 FW   1598:  1642   8.39e-10 ../coll/intron-mito.all
+GCGAGCCCCATGCGG--GGAAA---CTTGC-ACGTGTGGTTCTT----ACCGGGCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.ha-nad1-i02---.mt  Plant,f_id=6302440,tax_id=225607      1 FW   1595:  1639   8.39e-10 ../coll/intron-mito.all
+GCGAGCCCCATGCGG--GGAAA---CTTGC-ACGTGTGGTTCTT----ACCGGGCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.ma-nad1-i02---.mt  Plant,f_id=6302485,tax_id=225593      1 FW   1412:  1456   8.39e-10 ../coll/intron-mito.all
+GCGAGCCCCATGCGG--GGAAA---CTTGC-ACGTGTGGTTCTT----ACCGGGCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Spha.do------i01---.mt  Plant,f_id=614137,tax_id=39027        1 FW    880:   919   8.73e-10 ../coll/intron-mito.all
+GAGAGCCGTATGATG--GGCCA---CTATC-TCGTACGGTTC---------GGAGAGCACTGTAGTAAGTCATTTGGGATTTTTCTCAACTGTTTGCTAAGCGAACAGCGAGTGAACGACAAATAAAAGATATATATATTTCCAGAAACTTATCAGAATCGTCCCTTT
+>Raph.sa-nad4-i01---.mt  Plant,f_id=473341,tax_id=3726         1 FW   1344:  1388   8.77e-10 ../coll/intron-mito.all
+CGGAGCCGTATGATG--CGGAA---GTCTC-ACGTACGGTTCCC----TGAGAAGGGAGTGGCTACCTACTGGAGCTTCGACCAAGCACCCCCGGTCAATTCCGCTTTGGGGCCACCCCTTACTCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Phas.vu-nad4-i01---.mt  Plant,f_id=6059241,tax_id=3885        1 FW   1293:  1337   8.77e-10 ../coll/intron-mito.all
+CGGAGCCGTATGATG--CGGAA---GTCTC-ACGTACGGTTCCC----TGAGAAGGGAGTGGCTACCTACTGGAGCTTCGACCAACCACCACCGGTAAATTCCGCTTTGGGGCCACCCCTTACTCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Sina.al-nad4-i01---.mt  Plant,f_id=473347,tax_id=3728         1 FW   1353:  1397   8.77e-10 ../coll/intron-mito.all
+CGGAGCCGTATGATG--CGGAA---GTCTC-ACGTACGGTTCCC----TGAGAAGGGAGTGGCTACCTACTGGAGCTTCGACCAAGCACCCCCGGTCAATTCCGCTTTGGGGCCACCCCTTACTCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Pisu.sa-nad4-i01---.mt  Plant,f_id=6059237,tax_id=3888        1 FW   1289:  1333   8.77e-10 ../coll/intron-mito.all
+CGGAGCCGTATGATG--CGGAA---GTCTC-ACGTACGGTTCCC----TGAGAAGGGAGTGGCTACCTACTGGAGCTTCGACCAACCACCACCGGTAAATTCCGCTTTGGGGCCACCCCTTACTCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Bras.ol-nad4-i01---.mt  Plant,f_id=473323,tax_id=3715         1 FW   1353:  1397   8.77e-10 ../coll/intron-mito.all
+CGGAGCCGTATGATG--CGGAA---GTCTC-ACGTACGGTTCCC----TGAGAAGGGAGTGGCTACCTACTGGAGCTTCGACCAAGCACCCCCGGTCAATTCCGCTTTGGGGCCACCCCTTACTCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Glyc.ma-nad4-i01---.mt  Plant,f_id=6059245,tax_id=3847        1 FW   1294:  1338   8.77e-10 ../coll/intron-mito.all
+CGGAGCCGTATGATG--CGGAA---GTCTC-ACGTACGGTTCCC----TGAGAAGGGAGTGGCTACCTACTGGAGCTTCGACTAACCACCACCGGTAAATTCCGCTTTGGGGCCACCCCTTACTCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Bras.ca-nad4-i01---.mt  Plant,f_id=680,tax_id=3711            1 FW   1352:  1396   8.77e-10 ../coll/intron-mito.all
+CGGAGCCGTATGATG--CGGAA---GTCTC-ACGTACGGTTCCC----TGAGAAGGGAGTGGCTACCTACTGGAGCTTCGACCAAGCACCCCCGGTCAATTCCGCTTTGGGGCCACCCCTTACTCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Nast.of-nad4-i01---.mt  Plant,f_id=6059223,tax_id=65948       1 FW   1355:  1399   8.77e-10 ../coll/intron-mito.all
+CGGAGCCGTATGATG--CGGAA---GTCTC-ACGTACGGTTCCC----TGAGAAGGGAGTGGCTACCTACTGGAGCTTCGACCAAGCACCCCCGGTCAATTCCGCTTTGGGGCCACCCCTTACTCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Lact.sa-nad4-i01---.mt  Plant,f_id=7562,tax_id=4236           1 FW   1322:  1366   8.77e-10 ../coll/intron-mito.all
+CGGAGCCGTATGATG--CGGAA---GTCTC-ACGTACGGTTCCC----CGAGAAGGGAGTGGCTACCTACTGGAGCTTCGACCAATCACCACCGGTCAATTCCGCTTTGGGCCACCCCTTACTCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Bras.ra-nad4-i01---.mt  Plant,f_id=473317,tax_id=93385        1 FW   1353:  1397   8.77e-10 ../coll/intron-mito.all
+CGGAGCCGTATGATG--CGGAA---GTCTC-ACGTACGGTTCCC----TGAGAAGGGAGTGGCTACCTACTGGAGCTTCGACCAAGCACCCCCGGTCAATTCCGCTTTGGGGCCACCCCTTACTCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Acti.de-nad4-i01---.mt  Plant,f_id=6199843,tax_id=284548      1 FW   1318:  1362   8.77e-10 ../coll/intron-mito.all
+CGGAGCCGTATGATG--CGGAA---GTCTC-ACGTACGGTTCCC----TGAGAAGGGAGTGGCTACCTACTGGAGCTTCGACCAACCACCACCGGTCAATTCCGCTTTGGGGCCACCCCTTACTCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Capp.la-nad4-i01---.mt  Plant,f_id=6059235,tax_id=190801      1 FW   1314:  1358   8.77e-10 ../coll/intron-mito.all
+CGGAGCCGTATGATG--CGGAA---GTCTC-ACGTACGGTTCCC----TGAGAAGGGAGTGGCTACCTACTGGAGCTTCGACCAAGCACCCCCGGTCAATTCCGCTTTGGGGCCACCCCTTACTCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Cleo.ru-nad4-i01---.mt  Plant,f_id=6059225,tax_id=190803      1 FW   1312:  1356   8.77e-10 ../coll/intron-mito.all
+CGGAGCCGTATGATG--CGGAA---GTCTC-ACGTACGGTTCCC----TGAGAAGGGAGTGGCTACCTACTGGAGCTTCGACCAAGCACTCCCGGTCAATTCCGCTTTGGGGCCACCCCTTACTCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Acti.la-nad4-i01---.mt  Plant,f_id=6199836,tax_id=165711      1 FW   1311:  1355   8.77e-10 ../coll/intron-mito.all
+CGGAGCCGTATGATG--CGGAA---GTCTC-ACGTACGGTTCCC----TGAGAAGGGAGTGGCTACCTACTGGAGCTTCGACCAACCACCACCGGTCAATTCCGCTTTGGGGCCACCCCTTACTCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Zea.may-nad4-i01---.mt  Plant,f_id=123132,tax_id=4577         1 FW   1122:  1166   8.77e-10 ../coll/intron-mito.all
+CGGAGCCGTATGATG--CGGAA---GTCTC-ACGTACGGTTCCC----TGAGAAGGGATGGGCTACCCACTGGAGCTTCGACCAACCACCACCGGTCAATTCCGCTTTGGGGCCACCCCTGACTCTACCATCATTATAGnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Cleo.vi-nad4-i01---.mt  Plant,f_id=6059229,tax_id=190804      1 FW   1315:  1359   8.77e-10 ../coll/intron-mito.all
+CGGAGCCGTATGATG--CGGAA---GTCTC-ACGTACGGTTCCC----TGAGAAGGGAGTGGCTACCTACTGGAGCTTCGACCAAGCACCCCCGGTCAATTCCGCTTTTGGGCCACCCCTTACTCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Vign.ra-nad4-i01---.mt  Plant,f_id=6059247,tax_id=157791      1 FW   1295:  1339   8.77e-10 ../coll/intron-mito.all
+CGGAGCCGTATGATG--CGGAA---GTCTC-ACGTACGGTTCCC----TGAGAAGGGAGTGGCTACCTACTGGAGCTTCGACCAACCACCACCGGTAAATCCCGCTTTGGGGCCACCCCTTACTCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Capp.ac-nad4-i01---.mt  Plant,f_id=6059233,tax_id=190800      1 FW   1314:  1358   8.77e-10 ../coll/intron-mito.all
+CGGAGCCGTATGATG--CGGAA---GTCTC-ACGTACGGTTCCC----TGAGAAGGGAGTGGCTACCTACTGGAGCTTCGACCAAGCACCCCCGGTCAATTCCGCTTTGGGGCCACCCCTTACTCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Bras.ni-nad4-i01---.mt  Plant,f_id=473335,tax_id=3710         1 FW   1352:  1396   8.77e-10 ../coll/intron-mito.all
+CGGAGCCGTATGATG--CGGAA---GTCTC-ACGTACGGTTCCC----TGAGAAGGGAGTGGCTACCTACTGGAGCTTCGACCAAGCACCCCCGGTCAATTCCGCTTTGGGGCCACCCCTTACTCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Bras.ju-nad4-i01---.mt  Plant,f_id=473329,tax_id=3707         1 FW   1353:  1397   8.77e-10 ../coll/intron-mito.all
+CGGAGCCGTATGATG--CGGAA---GTCTC-ACGTACGGTTCCC----TGAGAAGGGAGTGGCTACCTACTGGAGCTTCGACCAAGCACCCCCGGTCAATTCCGCTTTGGGGCCACCCCTTACTCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Vici.fa-nad4-i01---.mt  Plant,f_id=6059243,tax_id=3906        1 FW   1294:  1338   8.77e-10 ../coll/intron-mito.all
+CGGAGCCGTATGATG--CGGAA---GTCTC-ACGTACGGTTCCC----TGAGAAGGGAGTGGCTACCTACTGGAGCTTCGACCAACCACCACCGGTAAATTCCGCTTTGGGGCCACCCCTTACTCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Mori.ol-nad4-i01---.mt  Plant,f_id=6059239,tax_id=3735        1 FW   1313:  1357   8.77e-10 ../coll/intron-mito.all
+CGGAGCCGTATGATG--CGGAA---GTCTC-ACGTACGGTTCCC----TGAGAAGGGAGTGGCTACCTACTGGAGCTTCGACCAACCACCACCGGTCAATTCCGCTTTGGGGCCACCCCTTACTCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Lepi.vi-nad4-i01---.mt  Plant,f_id=473371,tax_id=59292        1 FW   1344:  1388   8.77e-10 ../coll/intron-mito.all
+CGGAGCCGTATGATG--CGGAA---GTCTC-ACGTACGGTTCCC----TGAGAAGGGAGTGGCTACCTACTGGAGCTTCGACCAAGCACCCCCGGTCAATTCCGCTTTGGGGCCACCCCTTACTCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Acti.ch-nad4-i01---.mt  Plant,f_id=6199857,tax_id=3625        1 FW   1318:  1362   8.77e-10 ../coll/intron-mito.all
+CGGAGCCGTATGATG--CGGAA---GTCTC-ACGTACGGTTCCC----TGAGAAGGGAGTGGCTACCTACTGGAGCTTCGACCAACCACCACCGGTCAATTCCGCTTTGGGGCCACCCCTTACTCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Clem.la-nad4-i01---.mt  Plant,f_id=6199866,tax_id=222894      1 FW   1317:  1361   8.77e-10 ../coll/intron-mito.all
+CGGAGCCGTATGATG--CGGAA---GTCTC-ACGTACGGTTCCC----TGAGAAGGGAGTGGCTACCTACTGGAGCTTCGACCAACCACCACCGGTCAATTCCGCTTTGGGGCCACCCCTTACTCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Caps.bu-nad4-i01---.mt  Plant,f_id=473359,tax_id=3719         1 FW   1355:  1399   8.77e-10 ../coll/intron-mito.all
+CGGAGCCGTATGATG--CGGAA---GTCTC-ACGTACGGTTCCC----TGAGAAGGGAGTGGCTACCTACTGGAGCTTCGACCAAGCACCCCCGGTCAATTCCGCTTTGGGGCCACCCCTTACTCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gyna.gy-nad4-i01---.mt  Plant,f_id=6059227,tax_id=190802      1 FW   1319:  1363   8.77e-10 ../coll/intron-mito.all
+CGGAGCCGTATGATG--CGGAA---GTCTC-ACGTACGGTTCCC----TGAGAAGGGAGTGGCTACCTACTGGAGCTTCGACTAAGCACCCCCGGTCAATTCTGCTTTGGGGCCACCCCTTACTCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Card.sc-nad4-i01---.mt  Plant,f_id=473365,tax_id=93390        1 FW   1360:  1404   8.77e-10 ../coll/intron-mito.all
+CGGAGCCGTATGATG--CGGAA---GTCTC-ACGTACGGTTCCC----TGAGAAGGGAGTGGCTACCTACTGGAGCTTCGACCAAGCACCCCCGGTCAATTCCGCTTTGGGGCCACCCCTTACTCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Acti.ar-nad4-i01---.mt  Plant,f_id=6199850,tax_id=222893      1 FW   1325:  1369   8.77e-10 ../coll/intron-mito.all
+CGGAGCCGTATGATG--CGGAA---GTCTC-ACGTACGGTTCCC----TGAGAAGGGAGTGGCTACCTACTGGAGCTTCGACCAACCACCACCGGTCAATTCCGCTTTGGGGCCACCCCTTACTCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Rori.ca-nad4-i01---.mt  Plant,f_id=6059221,tax_id=190807      1 FW   1355:  1399   8.77e-10 ../coll/intron-mito.all
+CGGAGCCGTATGATG--CGGAA---GTCTC-ACGTACGGTTCCC----TGAGAAGGGAGTGGCTACCTACTGGAGCTTCGACCAAGCACCCCCGGTCAATTCCGCTTTGGGGCCACCCCTTACTCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Rori.in-nad4-i01---.mt  Plant,f_id=473353,tax_id=50499        1 FW   1355:  1399   8.77e-10 ../coll/intron-mito.all
+CGGAGCCGTATGATG--CGGAA---GTCTC-ACGTACGGTTCCC----TGAGAAGGGAGTGGCTACCTACTGGAGCTTCGACCAAGCACCCCCGGTCAATTCCGCTTTGGGGCCACCCCTTACTCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Acti.po-nad4-i01---.mt  Plant,f_id=6199829,tax_id=64480       1 FW   1324:  1368   8.77e-10 ../coll/intron-mito.all
+CGGAGCCGTATGATG--CGGAA---GTCTC-ACGTACGGTTCCC----TGAGAAGGGAGTGGCTACCTACTGGAGCTTCGACCAACCACCACCGGTCAATTCCGCTTTGGGGCCACCCCTTACTCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Crat.ad-nad4-i01---.mt  Plant,f_id=6059231,tax_id=190855      1 FW   1333:  1377   8.77e-10 ../coll/intron-mito.all
+CGGAGCCGTATGATG--CGGAA---GTCTC-ACGTACGGTTCCC----TGAGAAGGGAGTGGCTACCTACTGGAGCTTCGACCAAGCACCCCCGGTCAATTCCGCTTTGGGGCCACCCCTTACTCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Rhiz.pa-nad1-i01---.mt  Plant,f_id=6737432,tax_id=253515      1 FW    671:   710   9.26e-10 ../coll/intron-mito.all
+GAGAGCTTTATGACG---GAAAA--CTGTC-ACGTATGGTTC---------GGAGGGCGGGGAAATCTCCGACCCCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Dicr.sc-nad1-i01---.mt  Plant,f_id=6737417,tax_id=3222        1 FW    702:   741   9.26e-10 ../coll/intron-mito.all
+GAGAGCTTTATGACG--GGAAA---CTGTC-ACGTATGGTTC---------GGAGGGCGGGGAAATCTCCGACCCCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Poly.ju-nad1-i01---.mt  Plant,f_id=6737403,tax_id=129213      1 FW    707:   746   9.26e-10 ../coll/intron-mito.all
+GAGAGCTTTATGACG--GGAAA---CTGTC-ACGTATGGTTC---------GGAGGGCGGGGAAATCTCCGACCCCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Atri.an-nad1-i01---.mt  Plant,f_id=6737307,tax_id=37310       1 FW    705:   744   9.26e-10 ../coll/intron-mito.all
+GAGAGCTTTATGACG--GGAAA---CTGTC-ACGTATGGTTC---------GGAGGGCGGGGAAATCTCCGACCCCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Cera.pu-nad1-i01-II.mt  Plant,f_id=425249,tax_id=3225         1 FW    705:   744   9.26e-10 ../coll/intron-mito.all
+GAGAGCTTTATGACG--GGAAA---CTGTC-ACGTATGGTTC---------GGAGGGCGGGGAAATCTCCGACCCCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Tetr.pe-nad1-i01---.mt  Plant,f_id=6737371,tax_id=37420       1 FW    680:   719   9.26e-10 ../coll/intron-mito.all
+GAGAGCTTTATGACG--GGAAA---CTGTC-ACGTATGGTTC---------GGAGGGCGGGGAAATCTCCGACCCCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Leuc.al-nad1-i01---.mt  Plant,f_id=6737422,tax_id=175169      1 FW    725:   764   9.26e-10 ../coll/intron-mito.all
+GAGAGCTTTATGACG--GGAAA---CTGTC-ACGTATGGTTC---------GGAGGGCGGGGAAATCTCCGACCCCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Hedw.ci-nad1-i01---.mt  Plant,f_id=6737437,tax_id=52988       1 FW    701:   740   9.26e-10 ../coll/intron-mito.all
+GAGAGCTTTATGACG---GAAAA--CTGTC-ACGTATGGTTC---------GGAGGGCGGGGAAATCTCCGACCCCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Fiss.du-nad1-i01---.mt  Plant,f_id=6737411,tax_id=127171      1 FW    704:   743   9.26e-10 ../coll/intron-mito.all
+GAGAGCTTTATGACG--GGAAA---CTGTC-ACGTATGGTTC---------GGAGGGCGGGGAAATCTCCGACCCCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Bart.ha-nad1-i01---.mt  Plant,f_id=6737427,tax_id=65528       1 FW    687:   726   9.26e-10 ../coll/intron-mito.all
+GAGAGCTTTATGACG---GAAAA--CTGTC-ACGTATGGTTC---------GGAGGGCGGGGAAATCTCCGACCCCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Isoe.la-nad2-i01-II.mt  Plant,f_id=425286,tax_id=50271        1 FW    321:   363   9.35e-10 ../coll/intron-mito.all
+GCAAGCCGCATGCGG--TGAGA---GTCGC-ACGTACGGTTAC------GAGGGGGGCATCCATGTGTGTGGGCCCACCCTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Sacc.ce-cox1-i01---.mt  Fungi,f_id=400577,tax_id=4932         1 FW   2367:  2407   1.14e-09 ../coll/intron-mito.all
+GAAAGCCGTATGATG--GGAAA---CTATC-ACGTACGGTTT--------GGGAAAGGCTCTTTAACACGTGGCAACATAGGTTAATTTGCTATTTCATTTnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Mega.to-nad1-i02---.mt  Plant,f_id=6737479,tax_id=93616       1 FW   2901:  2945   1.16e-09 ../coll/intron-mito.all
+CGGAGCCGTATGACG--CGCGA---GTGTC-GCGTACGGTTCTT----TGAGAAGGGAGTGGGGGGGTAGGGAGGTTAACCCATCATCAGTCCGAGCAGGCCATGGGGCTGCACCCCTTACCCTCCnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Marc.po-atp1-i01---.mt  Plant,f_id=404278,tax_id=3197         1 FW   3277:  3318   1.30e-09 ../coll/intron-mito.all
+AGGAGCCGTATGATG--GGAAA---CCATC-ACGTACGGTTCG-------GTGACGGCCTGCGGGCTAGTTCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Oeno.be-nad5-i01---.mt  Plant,f_id=472196,tax_id=3950         1 FW    710:   749   1.31e-09 ../coll/intron-mito.all
+GTGAGCCGTGTGATG--GGAAA---CCTTC-CCGCACGGTTC---------GGAGAGCACTGAATTAGAATGAGAGGTTCACCACCACATCATTGCATGCAAGGGGAGCTCGCTCGATTCGCAAATTGGTCTGACTCGTAATTCACTTCTGACTCCGTnnnnnnnnnn
+>Vici.fa-nad5-i01---.mt  Plant,f_id=132010,tax_id=3906         1 FW    731:   770   1.31e-09 ../coll/intron-mito.all
+GTGAGCCGTGTGATG--GGAAA---CCTTC-CCGCACGGTTC---------GGAGAGCACTTAATTAGAATGAGAGGTTCACCACCACATCATTGCATGCAAGGGGAGCTCGCTCGATTCGCAAATAGGTCCGACTCGTAATTAACTTCTGACTCCGTnnnnnnnnnn
+>Malu.do-nad5-i01---.mt  Plant,f_id=402398,tax_id=3750         1 FW    708:   747   1.31e-09 ../coll/intron-mito.all
+GTGAGCCGTGTGATG--GGAAA---CCTTC-CCGCACGGTTC---------GGAGAGCACTGAATTCGAATGAGAGGTTCACCACCACATCATTGCATGCAAGGGGAGCTCGCTCGATTCGCAAATTGGTCCGACTCGTAATTCACTTCTGACCCCGTnnnnnnnnnn
+>Doli.bi-nad5-i01---.mt  Plant,f_id=6465,tax_id=3840           1 FW    719:   758   1.31e-09 ../coll/intron-mito.all
+GTGAGCCGTGTGATG--GGAAA---CCTTC-CCGCACGGTTC---------GGAGAGCACTGAATTAGAATGAGAGGTTCACCACCACATCATTGCATGCAAGGGGAGCTCGCTCGATTCGCAAATTGGTCCGACTCGTAATTCACTTCTGACTCCGTnnnnnnnnnn
+>Lygo.ci-nad5-i01---.mt  Plant,f_id=439963,tax_id=84615        1 FW    641:   685   1.42e-09 ../coll/intron-mito.all
+TTGAGCCGTATGCGA--GGGAA---CTTGC-ATGTGCGGTTCTT----TGAGGGGGGGAAGCTCGAAAGAGCCCATCCTTCGCGATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Lygo.fl-nad5-i01---.mt  Plant,f_id=439965,tax_id=85330        1 FW    641:   685   1.42e-09 ../coll/intron-mito.all
+TTGAGCCGTATGCGA--GGGAA---CTTGC-ATGTGCGGTTCTT----TGAGGGGGGGAAGCTCGAAAGAGCCCATCCTTCGCGATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Porp.pu-rnl--i01---.mt  Protista,f_id=439377,tax_id=2787      1 FW   2409:  2454   1.45e-09 ../coll/intron-mito.all
+AGGAGCCGTATGAAG--GGTGA---CTTTC-ACGTACGGTTTTGA---AGTGGAAGGTATTCTCGTGAGAGAAGACTTGACCATAACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Hupe.se-nad5-i02---.mt  Plant,f_id=439937,tax_id=70001        1 FW   2676:  2718   1.52e-09 ../coll/intron-mito.all
+TCGAGCCGTATGCAG--GGAAA---CTATC-ACGTACGGTTCC------TAGGGGGGGGGGCTTGGAAGAGCCTACCTATCCCGATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Psil.nu-nad1-i01---.mt  Plant,f_id=6737505,tax_id=3240        1 FW   1728:  1772   1.60e-09 ../coll/intron-mito.all
+GGGAGCTGTATGAGC--GGTAA---CGTTC-ACGTACGGTTCTG----TGAGAGGGGCGGTGGACGGAAATGGCCATCGTACCCTACTCTCGnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Cand.st-rnl--i01-II.mt  Fungi,f_id=6737767,tax_id=45594       1 RC     28:    73   1.61e-09 ../coll/intron-mito.all
+GGGAGCCGTATGAATT-AGAAA---TTTTC-ATGTACGGTTCTG----ACCGGGGGAAAATAAGAGATTATCTACCTATCGGACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Hupe.lu-nad1-i03---.mt  Plant,f_id=6737330,tax_id=37429       1 FW   3011:  3055   1.63e-09 ../coll/intron-mito.all
+GGGAGCCGTATGAGC--GGTAA---CGTTC-ATGTACGGTTCTG----TGAGAAGGGCGGTGGACACAAATGGCCGTCGTACCTTACTCTCGnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Arab.th-rps3-i01---.mt  Plant,f_id=6736093,tax_id=3702        1 RC     91:   130   1.73e-09 ../coll/intron-mito.all
+GAGAGCCGTGTGATG--GGTGA---CTATC-CAGCACGGTTC---------GGAGAGCACTTTTAGTCTTTGTTGGTGAATGGAAGCCCCCCTATCAAGCAAAAAATAAGCGGCTCTTTCTACGGCGGGGTCACTATTGACTCTATTnnnnnnnnnnnnnnnnnnnnn
+>Pyla.li-cox1-i03---.mt  Protista,f_id=130351,tax_id=2885      1 FW   2314:  2353   1.79e-09 ../coll/intron-mito.all
+GAGAGCCCGGTGCGG--TGAAA---GTCGC-ACGCCGGGTTC---------GGGGAGAACTCTCTGTAACTAAAATATTTCGGTATCACGTTATGGTTAGTCACTCCACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Pyla.li-cox1-i03---.mt  Protista,f_id=7018998,tax_id=2885     1 FW   2314:  2353   1.79e-09 ../coll/intron-mito.all
+GAGAGCCCGGTGCGG--TGAAA---GTCGC-ACGCCGGGTTC---------GGGGAGAACTCTCTGTAACTAAAATATTTCGGTATCACGTTATGGTTAGTCACTCCACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Osmu.re-nad1-i01-II.mt  Plant,f_id=425316,tax_id=3285         1 FW   2730:  2774   1.90e-09 ../coll/intron-mito.all
+GGGAGCTGTATGAGC--GGTAA---CGTTC-ACGTACGGTTCTG----TGAGAAGGGCGGTGGACGGAAATGGCCATCGTACCTTACTCTCGnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Char.vu-nad3-i01-II.mt  Plant,f_id=6214152,tax_id=55564       1 RC     47:    86   1.99e-09 ../coll/intron-mito.all
+GTGAGCCGTGTAATG--GGCAA---CTATT-TCGCACGGTTC---------GGAGGGCACTTCAGTAAGTCTGTGCAAATCAGATTGAAGTTTTGACCCCTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Rhiz.sp-rnl--i04-II.mt  Fungi,f_id=619100,tax_id=60187        1 FW    631:   674   2.14e-09 ../coll/intron-mito.all
+CTGAGCCGTATGCGA--TGAAA---GTCGC-ACGTACGGTTCTA-----CAAGGGAATCATTAGATACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Bazz.tr-nad4-i01---.mt  Plant,f_id=7018407,tax_id=13808       1 FW    753:   794   2.30e-09 ../coll/intron-mito.all
+GAGAGCCGTATGCGG----GGAG--CTTGC-ACGTACGGTTCG------GAGGAAGGCCATTGATACCTAATGAAGATATCACCATGACTGAGGTATAAGCCACGCCTCGAAGGTGCAGGGGACTTGGTTTTATTGGGTAGTTGAGGTTGGTGGCCCATCTCTTACnn
+>Rhiz.pa-nad1-i02---.mt  Plant,f_id=6737433,tax_id=253515      1 FW    747:   791   2.30e-09 ../coll/intron-mito.all
+CGGAGCCGTATGATG--CGAGA---GTGTC-ATGTACGGTTCTT----TGAGAAGGGTGTGAATATCTATTATTCTCAGGCCCCAAGGGGCCACGAAGCTACACCCTTACTCTCCnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.ne-nad1-i02---.mt  Plant,f_id=6302356,tax_id=225594      1 FW   1293:  1337   2.32e-09 ../coll/intron-mito.all
+ACGAGCCACATGCAG---GCAAA--CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATAnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.ne-nad1-i02---.mt  Plant,f_id=6302352,tax_id=225594      1 FW   1293:  1337   2.32e-09 ../coll/intron-mito.all
+ACGAGCCACATGCAG---GCAAA--CTTGC-ACGTGTGGTTCTG----GCCGGGGACCCCGGTATAnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Anth.ag-nad5-i03---.mt  Plant,f_id=6737095,tax_id=41834       1 FW    836:   878   2.62e-09 ../coll/intron-mito.all
+TTGAGCTGTATGAAG--GGAAA----CTTCTACGTACGGTTCT------CTGGGGGGAAAGCCCTAAGGGCCTACCTATCCAAACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Anth.pu-nad5-i01---.mt  Plant,f_id=6736957,tax_id=3234        1 FW    836:   878   2.62e-09 ../coll/intron-mito.all
+TTGAGCTGTATGAAG--GGAAA----CTTCTACGTACGGTTCT------CTGGGGGGAAAGCCCTAAGGGCCTACCTATCCAAACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Spha.fa-nad5-i01---.mt  Plant,f_id=6736560,tax_id=53036       1 FW    730:   769   2.97e-09 ../coll/intron-mito.all
+GTGAGCCGTGTGATG--GGTAA---CCATC-TTGCACGGTTC---------GGAGAGCACTTTATTATTTCACTTGGGTGAATGGCCGCATTGCGGTATGAAAAAAATTTTCTGCTTAATTTGCAAAATAAAGGCCCTGGTGAAGTAAAACTTTTGACTCTGTnnnnn
+>Porp.pu-rnl--i02---.mt  Protista,f_id=439379,tax_id=2787      1 FW   2404:  2449   3.20e-09 ../coll/intron-mito.all
+AGGAGCCGTATGAAG--GGTGA---CCTTC-ACGTACGGTTTTGC---AGTGGGAGGAAACTTCGTGAGAAGTTTCTTTACCATAACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Equi.ar-nad1-i04---.mt  Plant,f_id=6737344,tax_id=3258        1 FW   2116:  2160   3.31e-09 ../coll/intron-mito.all
+CGGAGCCGTATGACG--CGAGA---GTGTC-GCGTACGGTTTTT----CGAGAAGGGTGTGGATACACCTATCGGGCTAAGGGCCACGGAGCTGCGCCCTTACTCTCCnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Amoe.pa-rnl--i03-II.mt  Protista,f_id=6091777,tax_id=4881     1 FW    501:   541   3.39e-09 ../coll/intron-mito.all
+GTGAGCCGTATGCGA--TGAAA---GTCGC-TCGTACGGTTC--------TTAGGAGTCGATCTTGATGCGAATCAAATGAGCTCCAATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Hupe.lu-nad1-i02---.mt  Plant,f_id=6737329,tax_id=37429       1 FW   1405:  1450   3.52e-09 ../coll/intron-mito.all
+ACGAGCCGCATGCAG--GGAAA---CTTGC-GCGTGTGGTTCTGA---CCGGGGGAGAGGATAGGAGCCCTATCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Arab.th-nad2-i01---.mt  Plant,f_id=6736224,tax_id=3702        1 RC     15:    55   3.57e-09 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTTC--------TGGCCGGGCTTTCCTGAGGTAnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Equi.ar-nad1-i02---.mt  Plant,f_id=6737342,tax_id=3258        1 FW   1979:  2018   3.80e-09 ../coll/intron-mito.all
+GAGAGCCGTATGCGC--GGTGA---CGTGC-TCGTACAGTTC---------GGGGGGGACTCGGCGTACACCGATCTTGTTGATTGGTGGAAAGGTTTCACTCTGTnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Angi.ev-nad1-i02---.mt  Plant,f_id=6737524,tax_id=13825       1 FW   1969:  2008   3.80e-09 ../coll/intron-mito.all
+GAGAGCCGTATGCGC--GGTGA---CGTGC-TCGTACAGTTC---------GGGGGGGACTCGGCGTCACCGATCTTGTTGATTGGTGGAAAGGTTTCACTCTGTnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Spir.di-nad3-i02-II.mt  Plant,f_id=620955,tax_id=126262       1 FW   1027:  1069   3.82e-09 ../coll/intron-mito.all
+GTGAGCCGCATGCGG--GGAGA---CCCGC-ACGTACGGTTTT------CAGGGGGATCCGGCCGAAAGACCGGCCTGCGCCCACCCGACTAGAGGTACTGAGAAATTAATTGAGTACAAAACTTATCTTCAAGCnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Pisu.sa-nad7-i01---.mt  Plant,f_id=436368,tax_id=3888         1 FW    826:   868   3.82e-09 ../coll/intron-mito.all
+GTGAGCCGCATGCGG--GGAGA---CCCGC-ACGTACGGTTTT------TAGGGGGATCTGGTCGAAAGACCGGCCGGCGCCCACCCGACTAGAGGGACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Oeno.be-rps3-i01---.mt  Plant,f_id=1757,tax_id=3950           1 FW   1526:  1565   4.32e-09 ../coll/intron-mito.all
+GAGAGCCGTGTGATG--GGTGA---CTATC-CTGCACGGTTC---------GGAGAGCACTTATAGTCTGCGCTGCTGAATGGAAGCCCCCCTATCAAGCAAGAAAGAAGCGGCTCTTCCCACGGCGACCATTGACTCTATnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Marc.po-nad3-i01---.mt  Plant,f_id=404231,tax_id=3197         1 FW   1403:  1442   4.52e-09 ../coll/intron-mito.all
+GTGAGCCGTGTAATG--GGCAA---CTATT-TCGCACGGTTC---------GGAGGGCACTTCAGTAAGCCCTACAAGGGCTGAAGTCTTGACCCCTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Marc.po-cox1-i01---.mt  Plant,f_id=404299,tax_id=3197         1 RC     18:    62   4.55e-09 ../coll/intron-mito.all
+GAGAGCCGTGTGATG--GAAGA---CTATC-AAGCACGGTTCCA----CGAGAAGGGCTAATCCTTTACTCGACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Taka.le------i02---.mt  Plant,f_id=614901,tax_id=37425        1 FW   1025:  1064   4.87e-09 ../coll/intron-mito.all
+GAGAGCCGTGTGATG--GGTGA---CCACC-TCGCACGGTTC---------GGAGAGCACTTGTGTATGTGATGCGAGTGAACGTGTACAGCATAGCTGGCATCAATGAATTTCGACTCTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Cory.co-rps3-i01---.mt  Plant,f_id=473554,tax_id=101193       1 FW   1540:  1579   5.00e-09 ../coll/intron-mito.all
+GAGAGCCGTGTGATG--GGTGA---CTATC-CAGCACGGTTC---------GGAGAGCACTTTTAGTCTGCGTTGGTGAATGAAAGCCCCCCCATCAAGCAAGAAAGAAGCGGCTCTTCCCACGGCGGAGTCACCATTGACTCTATnnnnnnnnnnnnnnnnnnnnnn
+>Ostr.vi-rps3-i01---.mt  Plant,f_id=473564,tax_id=13622        1 FW   1543:  1582   5.00e-09 ../coll/intron-mito.all
+GAGAGCCGTGTGATG--GGTGA---CTATC-CAGCACGGTTC---------GGAGAGCACTTTTAGTCTGCGTTGGTGAATGAAAGCCCCCCCCCATCAAGCAAGAAAGAAGCGGCTCTTCCCACGGCGGAGTCACCATTGACTCTATnnnnnnnnnnnnnnnnnnnn
+>Betu.pa-rps3-i01---.mt  Plant,f_id=473529,tax_id=3507         1 FW   1472:  1511   5.00e-09 ../coll/intron-mito.all
+GAGAGCCGTGTGATG--GGTGA---CTATC-CAGCACGGTTC---------GGAGAGCACTTTTAGTCTGCGTTGGTGAATGAAAGCCCCCCCCATCAAGCAAGAAAGAAGCGGCTCTTCCCACGGCGGAGTCACCATTGACTCTATnnnnnnnnnnnnnnnnnnnnn
+>Cory.co-rps3-i01---.mt  Plant,f_id=473559,tax_id=13452        1 FW   1540:  1579   5.00e-09 ../coll/intron-mito.all
+GAGAGCCGTGTGATG--GGTGA---CTATC-CAGCACGGTTC---------GGAGAGCACTTTTAGTCTGCGTTGGTGAATGAAAGCCCCCCCATCAAGCAAGAAAGAAGCGGCTCTTCCCACGGCGGAGTCACCATTGACTCTATnnnnnnnnnnnnnnnnnnnnnn
+>Betu.pu-rps3-i01---.mt  Plant,f_id=473539,tax_id=38787        1 FW   1472:  1511   5.00e-09 ../coll/intron-mito.all
+GAGAGCCGTGTGATG--GGTGA---CTATC-CAGCACGGTTC---------GGAGAGCACTTTTAGTCTGCGTTGGTGAATGAAAGCCCCCCCCATCAAGCAAGAAAGAAGCGGCTCTTCCCACGGCGGAGTCACCATTGACTCTATnnnnnnnnnnnnnnnnnnnnn
+>Betu.gl-rps3-i01---.mt  Plant,f_id=473524,tax_id=21018        1 FW   1470:  1509   5.00e-09 ../coll/intron-mito.all
+GAGAGCCGTGTGATG--GGTGA---CTATC-CAGCACGGTTC---------GGAGAGCACTTTTAGTCTGCGTTGGTGAATGAAAGCCCCCCCCATCAAGCAAGAAAGAAGCGGCTCTTCCCACGGCGGAGTCACCATTGACTCTATnnnnnnnnnnnnnnnnnnnnn
+>Carp.ca-rps3-i01---.mt  Plant,f_id=473544,tax_id=12991        1 FW   1542:  1581   5.00e-09 ../coll/intron-mito.all
+GAGAGCCGTGTGATG--GGTGA---CTATC-CAGCACGGTTC---------GGAGAGCACTTTTAGTCTGCGTTGGTGAATGAAAGCCCCCCCCCATCAAGCAAGAAAGAAGCGGCTCTTCCCACGGCGGAGTCACCATTGACTCTATnnnnnnnnnnnnnnnnnnnn
+>Alnu.ma-rps3-i01---.mt  Plant,f_id=473514,tax_id=21015        1 FW   1604:  1643   5.00e-09 ../coll/intron-mito.all
+GAGAGCCGTGTGATG--GGTGA---CTATC-CAGCACGGTTC---------GGAGAGCACTTTTAGTCTGCGTTGGTGAATGAAAGCCCCCCCCATCAAGCAAGAAAGAAGCGGCTCTTCCCACGGCGGAGTCACCATTGACTCTATnnnnnnnnnnnnnnnnnnnnn
+>Alnu.cr-rps3-i01---.mt  Plant,f_id=473504,tax_id=3518         1 FW   1602:  1641   5.00e-09 ../coll/intron-mito.all
+GAGAGCCGTGTGATG--GGTGA---CTATC-CAGCACGGTTC---------GGAGAGCACTTTTAGTCTGCGTTGGTGAATGAAAGCCCCCCCCATCAAGCAAGAAAGAAGCGGCTCTTCCCACGGCGGAGTCACCATTGACTCTATnnnnnnnnnnnnnnnnnnnnn
+>Betu.pe-rps3-i01---.mt  Plant,f_id=473534,tax_id=3505         1 FW   1470:  1509   5.00e-09 ../coll/intron-mito.all
+GAGAGCCGTGTGATG--GGTGA---CTATC-CAGCACGGTTC---------GGAGAGCACTTTTAGTCTGCGTTGGTGAATGAAAGCCCCCCCCATCAAGCAAGAAAGAAGCGGCTCTTCCCACGGCGGAGTCACCATTGACTCTATnnnnnnnnnnnnnnnnnnnnn
+>Betu.al-rps3-i01---.mt  Plant,f_id=473519,tax_id=21017        1 FW   1470:  1509   5.00e-09 ../coll/intron-mito.all
+GAGAGCCGTGTGATG--GGTGA---CTATC-CAGCACGGTTC---------GGAGAGCACTTTTAGTCTGCGTTGGTGAATGAAAGCCCCCCCCATCAAGCAAGAAAGAAGCGGCTCTTCCCACGGCGGAGTCACCATTGACTCTATnnnnnnnnnnnnnnnnnnnnn
+>Cory.av-rps3-i01---.mt  Plant,f_id=473549,tax_id=13451        1 FW   1540:  1579   5.00e-09 ../coll/intron-mito.all
+GAGAGCCGTGTGATG--GGTGA---CTATC-CAGCACGGTTC---------GGAGAGCACTTTTAGTCTGCGTTGGTGAATGAAAGCCCCCCCATCAAGCAAGAAAGAAGCGGCTCTTCCCACGGCGGAGTCACCATTGACTCTATnnnnnnnnnnnnnnnnnnnnnn
+>Alnu.gl-rps3-i01---.mt  Plant,f_id=473509,tax_id=3517         1 FW   1611:  1650   5.00e-09 ../coll/intron-mito.all
+GAGAGCCGTGTGATG--GGTGA---CTATC-CAGCACGGTTC---------GGAGAGCACTTTTAGTCTGCGTTGGTGAATGAAAGCCCCCCCCATCAAGCAAGAAAGAAGCGGCTCTTCCCACGGCGGAGTCACCATTGACTCTATnnnnnnnnnnnnnnnnnnnnn
+>Aspl.ni-nad2-i01-II.mt  Plant,f_id=406947,tax_id=29642        1 FW   2257:  2299   5.58e-09 ../coll/intron-mito.all
+GCAAGCCGTATGCAG--TGGAA---GTCGC-ACGTACGGTTAC------GAGGGGGGTTCGCGTCTATACGTGGAGTATGGATGGGAGCTTATGCCGCCCTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Neur.cr-cox1-i01---.mt  Fungi,f_id=400396,tax_id=5141         1 FW   2557:  2599   5.95e-09 ../coll/intron-mito.all
+GAAAGCCGTATGACG--GGAGA---CTGTC-ACGTACGGTTTG------GTGGCAGGCAGGAACCGCAAGGGACCTAGGCCTAGCCAACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Isoe.du------i02---.mt  Plant,f_id=614185,tax_id=56743        1 FW    317:   359   6.42e-09 ../coll/intron-mito.all
+TCAAGCCGCATGCGG--TGAGA---GTCGC-ACGTACGGTTAC------GAGGGGGCATCCATGTGTGTGGGCCCACCCTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Marc.po-cob--i02---.mt  Plant,f_id=404273,tax_id=3197         1 FW    777:   816   6.92e-09 ../coll/intron-mito.all
+GAGAGCCGTGTGATG--GGCGA---CTATC-TCGTACGGTTC---------GGAGAGCACTTGAGTAGCCCAGATCGGTGAACGGGGTAACCCTGGGACCGCATAGGGTGGATTCTTGACTCTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Aspl.ni-nad1-i01---.mt  Plant,f_id=6737361,tax_id=29642       1 FW   1038:  1077   8.31e-09 ../coll/intron-mito.all
+GAGAGCTGTATGACG--AAAGA---TTGTC-ACGTACGGTTT---------GGAGGGCAGCATTAACTGACCCCTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Pice.ab-nad1-i02---.mt  Plant,f_id=6211991,tax_id=3329        1 FW   1984:  2028   8.51e-09 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGTCCTG----ACCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Mega.to-nad1-i01---.mt  Plant,f_id=6737478,tax_id=93616       1 FW    518:   560   1.04e-08 ../coll/intron-mito.all
+GTGAGCCGTATGATG--GGAAA---CTATC-ACGTACGGTTAA------GAGGGCAGCGGCTCTCCTGTTGTCTGACCCTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Foss.pu------i01---.mt  Plant,f_id=614131,tax_id=34161        1 FW    848:   887   1.06e-08 ../coll/intron-mito.all
+GAGAGCCGTATGATG--GGCCA---CTATC-TAGTACGGTTC---------GGAGAGCACTGTAGTAAGTCATTTGGGAATTTTCTCAACCGTTTGCTAAGCGAACAGCGAGTGAACGACAAATATTTTTTWTATATATTTCCAGAAACTTAYYAAAATCATCCCTTT
+>Pell.ep------i01---.mt  Plant,f_id=614230,tax_id=40340        1 FW    753:   792   1.06e-08 ../coll/intron-mito.all
+GAGAGCCGTATGATG--GGCCA---CTATC-TAGTACGGTTC---------GGAGAGCACTGTAGTACACCGTTCTCAAGGGATCTTGAGAGCAGATGGGAATTTCAATCGCTTTTTCAGTGCCCCCCAAATTACAAATKAAATAACAGCATCTGACCCCTTACAAAA
+>Plag.as------i01---.mt  Plant,f_id=614237,tax_id=65053        1 FW    880:   919   1.06e-08 ../coll/intron-mito.all
+GAGAGCCGTATGATG--GGCCA---CTATC-TAGTACGGTTC---------GGAGAGCACTGTAGTAAGTCATTTGGGAATTTTCTCAACCGTTTGCCAAGCGAACAGCGAGTGAACGCCAAATGGAAAATATATATATCTATTTCCAAAAACTTATCAGAATCATCC
+>Buce.ro------i01---.mt  Plant,f_id=614202,tax_id=53027        1 FW    877:   916   1.06e-08 ../coll/intron-mito.all
+GAGAGCCGTATGATG--GGCCA---CTATC-TAGTACGGTTC---------GGAGAGCACTGTAGTAAGTCATTTGGGATTTTTCTCAACTGTTTGCTAAGCGAACAGCGAGTGAACGACAAATAAAAAATAGATATATTTCCAGAAACTTATCAGAATCGTCCCTTT
+>Lunu.cr------i01---.mt  Plant,f_id=614216,tax_id=56931        1 FW    881:   920   1.06e-08 ../coll/intron-mito.all
+GAGAGCCGTATGATG--GGCCA---CTATC-TAGTACGGTTC---------GGAGAGCACTGTAGTAAGTCATTTGGGATCTTTCTCAACTGTTTGCTAAGCGAACAGCGAGTGAACGAGAAATAAAAATATATATATATTTCCAGAAACTTCTCAGAATCGTCCCTT
+>Ricc.na------i01---.mt  Plant,f_id=614223,tax_id=53035        1 FW    868:   907   1.06e-08 ../coll/intron-mito.all
+GAGAGCCGTATGATG--GGCCA---CTATC-TAGTACGGTTC---------GGAGAGCACTGTAGTAAGTCATTTGGGATTTTTCTCAACTGTTTGCTAAGCGAACAGCGAGTGAACGACAAATAAAAGATATATATATTTCCAGAAACTTATCAGAATCGTCCCTTT
+>Cors.co------i01---.mt  Plant,f_id=614209,tax_id=63791        1 FW    880:   919   1.06e-08 ../coll/intron-mito.all
+GAGAGCCGTATGATG--GGCCA---CTATC-TAGTACGGTTC---------GGAGAGCACTGTAGTAAGTCATTTGGGATTTTTCTCAACTGTTTGCTAAGCGAACAGCGAGTGAACGAGAAATAAAAGATATATATATATTTCCAGAAACTTCTCAGAATCGTCCCT
+>Marc.po-nad2-i01---.mt  Plant,f_id=404220,tax_id=3197         1 FW    883:   922   1.11e-08 ../coll/intron-mito.all
+GAGAGCCGTATGATG--GGTCA---CTATC-TAGTACGGTTC---------GGAGAGCACTGTAGTAAATCATTTGGGATTTTTCTCAACTGTTTGCTAAGCGAACAGCGAGTGAACGACAAATAAAAAATATATATATTTCCAGAAACTTATCAGAATCGTCCCTTT
+>Mara.at-nad1-i02---.mt  Plant,f_id=6737534,tax_id=167731      1 FW   1951:  1990   1.12e-08 ../coll/intron-mito.all
+GAGAGCCGTATGCGC--GGTGA---CGTGC-TCGTACAGTTC---------GGGGAGGACTCGGCGTACACCGATCTTGTTGATTGGTGGAAAGGTTTCACTCTGTnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Char.vu-cox2-i01-II.mt  Plant,f_id=6214182,tax_id=55564       1 FW   1060:  1099   1.18e-08 ../coll/intron-mito.all
+GCGAGCTGCATGACG--GGAAA---CTGTC-ACGTGTGGTTC---------TGAGGGCAGGCGTTCTGCACTGACCCCTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Adia.sp-nad1-i01---.mt  Plant,f_id=6737347,tax_id=254646      1 FW    785:   824   1.29e-08 ../coll/intron-mito.all
+GAAAGCTGTATGACG--AAAAA---TTGTC-ACGTACGGTTT---------GGAGGGCAGCATAGCATTAACTGACCCCTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Phys.pa-nad7-i02---.mt  Plant,f_id=6735068,tax_id=3218        1 FW    893:   932   1.30e-08 ../coll/intron-mito.all
+GAGAGCCGTGTGATG--GGTGA---CCATC-TCACACGGTTC---------GGGGAGCACTTTATTATGTGATGCGAGTGAATGTGTACAGCATAGCTGGCATCAATTAAATTTTGACTCTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Char.vu-cob--i03-II.mt  Plant,f_id=6214187,tax_id=55564       1 RC     50:    90   1.40e-08 ../coll/intron-mito.all
+GAGAGCTGTATGCGA--GGAAA---CTTGC-ACATACGGTTC--------GGGAAAGGCTCTCTGATGCCTGCCTATCTATGAAGGCGTCAGTTATGCTATTTCACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Aspl.ni-nad5-i01---.mt  Plant,f_id=6737117,tax_id=29642       1 FW    885:   924   1.46e-08 ../coll/intron-mito.all
+GTGAGCCGTGTGATG--GGCGA---CCATC-TCACACGGTTC---------GGAGAGCACCTGATTATGTCACTCGGATGAACGGCCGCGTCATGGTACACAAGCTCGCTTGATTTGCAGAGGGAAAGGCCCGGCGAAGTAACTTCCGACCCGGTnnnnnnnnnnnnn
+>Noto.br-nad1-i02---.mt  Plant,f_id=6737499,tax_id=81810       1 FW    517:   558   1.48e-08 ../coll/intron-mito.all
+GTGAGCCGTATGATG---GAAA---CTATT-ACGTATGGTTCA------GAGGGCGGCGGCTCTCTTGTTGTCTGACCCTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Suil.lu-rnl--i05-I-.mt  Fungi,f_id=7018202,tax_id=5384        1 FW    594:   635   1.73e-08 ../coll/intron-mito.all
+TTGAGCTGTATGCGA--TGAAA---GTCGC-ACGTACAGTTCT-------TAGAGGATTTAATATTGTGATATATTATAAAGCCTCAACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Agro.ae-rnl--i05---.mt  Fungi,f_id=443655,tax_id=5400         1 FW   1708:  1749   1.73e-08 ../coll/intron-mito.all
+TTGAGCTGTATGCGA--TGAAA---GTCGC-ACGTACAGTTCT-------TAGAGGATGTTAATATAGTAATATTTAACGTAGCCTCAACAGnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Angi.ev-nad1-i01---.mt  Plant,f_id=6737523,tax_id=13825       1 FW    843:   882   1.81e-08 ../coll/intron-mito.all
+GAGAGCTGTATGACG--ATAGA---TTGTC-ACGTATGGTTC---------GGAGGGCAGCATCGACCCCTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Mara.at-nad1-i01---.mt  Plant,f_id=6737533,tax_id=167731      1 FW    830:   869   1.81e-08 ../coll/intron-mito.all
+GAGAGCTGTATGACG--ATAGA---TTGTC-ACGTATGGTTC---------GGAGGGCAGCATTGACCCCTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Equi.ar-nad1-i01---.mt  Plant,f_id=6737341,tax_id=3258        1 FW    882:   921   1.81e-08 ../coll/intron-mito.all
+GAGAGCTGTATGACG--ATAGA---TTGTC-ACGTATGGTTC---------GGAGGGCAGCATCGACCCCTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Hyme.re-nad1-i01---.mt  Plant,f_id=6737317,tax_id=81812       1 FW    709:   748   1.84e-08 ../coll/intron-mito.all
+GAGAGCTTTATGACG--GGAAA---CTGTC-ACGTATGGCTC---------GGAGGGCGGGGAAATCTCCGACCCCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Sola.tu-nad2-i04---.mt  Plant,f_id=424834,tax_id=4113         1 FW   1241:  1280   1.90e-08 ../coll/intron-mito.all
+GTGAGCCGTATGATG--GGCAA---CTATC-TCCTGCGGTTC---------GGAGAGGACTCAGCTGTTAGTTAGTACCCCCTTGGTTTCGGGGTGGACCTTTTCACTCTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Arab.th-nad1-i03---.mt  Plant,f_id=25093,tax_id=3702          1 FW    374:   418   2.02e-08 ../coll/intron-mito.all
+GGGAGCTGTATGAGC--GGTAA---CGTCC-ACGTACGGTTCCG----TGAGAAGGGCGGTGGACAGAAATGGCCTTGTTGTACCTTACTCTCGnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Taka.le-nad1-i01---.mt  Plant,f_id=6737462,tax_id=37425       1 FW    711:   753   2.09e-08 ../coll/intron-mito.all
+GAGAGCTGTATGACG--GGAAA---CTGCC-ACGTATGGTTCG------TAGGGCGGGGAAATCCCCGACCCCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Petu.hy-rps3-i01---.mt  Plant,f_id=4356,tax_id=4102           1 FW   1348:  1387   2.16e-08 ../coll/intron-mito.all
+GAGAGCCGTGTGATA--GGTGA---CTATC-CAGCACGGTTC---------GGAGAGCACTTTTAGTCTGCGCTGGTGAATGGAAGCCCCCCCTATCAAGCAAGAAGGAAGCGGCTCTTCCCACGGCGGAGTCACCATTGACTCTATTnnnnnnnnnnnnnnnnnnnn
+>Lyco.an------i02---.mt  Plant,f_id=614125,tax_id=13840        1 FW    618:   656   2.17e-08 ../coll/intron-mito.all
+GAGAGCCGTATGCGG---GAAA---CGCGC-AAGTACGGTTT---------GGAGGAAGCCCCTTATTTTTTTTGCCCACCCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Schi.po-cox2-i01-II.mt  Fungi,f_id=472402,tax_id=4896         1 FW   2350:  2393   4.20e-08 ../coll/intron-mito.all
+GAGAGCTGTATGCAT--TGAAA---GGTGC-ACGTACAGTTCGG-----TGGGAGACTGCTCATTATCCTATTTATTTAGGACTGGACAGCCGACCCAACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Pice.ab-nad1-i02---.mt  Plant,f_id=473490,tax_id=3329         1 FW   1916:  1960   4.39e-08 ../coll/intron-mito.all
+ACGAGCCACATNCAG--GGAAA---CTTGC-ACGTGTGGTCCTG----ACCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Marc.po-nad7-i02---.mt  Plant,f_id=404244,tax_id=3197         1 FW   1353:  1397   5.21e-08 ../coll/intron-mito.all
+AGGAGCCGTAGGACG--GGAAA---CTGTC-ACGTACGGTTCTG----AGTTGGCAGCCAGGTGGGAGACCCCTGGTCGACCATAACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Phae.ca-nad1-i01---.mt  Plant,f_id=6737488,tax_id=185665      1 FW    696:   735   5.59e-08 ../coll/intron-mito.all
+GAGAGTTCTATGACG--GGAAA---CTGTC-ACGTATGGTTC---------GGAGGGCGGGGAAATCCCGGACTCCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Oryz.sa-rps3-i01---.mt  Plant,f_id=404131,tax_id=39947        1 FW   1719:  1758   6.32e-08 ../coll/intron-mito.all
+GAGAGCCGTGTGATG--GGTGA---CTATC-TAGCACGGTTC---------AGAGAGCACGTGTATGTAGTCTGCGCTGGTGAATGGAAGCCCCCGCCGCAAAAAAGAAGCGGCTCTTCCCACGGCTCTGTCACCATTGACTCTATnnnnnnnnnnnnnnnnnnnnnn
+>Isoe.du------i01---.mt  Plant,f_id=614183,tax_id=56743        1 FW    415:   462   6.44e-08 ../coll/intron-mito.all
+ACGAGCCACATGCGG---G-AATAACTCGC-ACGTGTGGTTCTGA--CCGAGGGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAAGAACCCCTATCGGTCTnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Marc.po-nad7-i01---.mt  Plant,f_id=404242,tax_id=3197         1 FW   2958:  3001   6.90e-08 ../coll/intron-mito.all
+GAAAGCCGTATGCGA--GGAAAT--CTTGC-ACGTCCGGTTCG------GAGGAAGGCCATTGATACCTGACGAAAGGCTCGCAGCTTCATAATTGGGCTTAGTGGCCCATCTCTTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Hupe.se-nad5-i01---.mt  Plant,f_id=439935,tax_id=70001        1 FW    876:   918   8.13e-08 ../coll/intron-mito.all
+ATGAGCCGTATGTTG--GGAAA---CTTTC-ACGTACGCTTCC------GAGGGGGGGAACGCTGGGAAAAGCCTACCTATCCCGCTnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Sacc.ce-matR-i01---.mt  Fungi,f_id=6096398,tax_id=4932        1 FW    693:   737   8.19e-08 ../coll/intron-mito.all
+TTGAGCTGTATACTA--TGAAA---GTAGT-ACGTACAGTTCTG----AGTGGGGGAAAATTTGTAAAGATCTTCCTTTCACAATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Sacc.do-cob--i02---.mt  Fungi,f_id=2951,tax_id=46617          1 FW    708:   752   8.19e-08 ../coll/intron-mito.all
+TTGAGCTGTATACTA--TGAAA---GTAGT-ACGTACAGTTCTG----AGTGGGGGAAAATTTGTAAAGATCTACCTATCACAATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Hapl.mn------i01---.mt  Plant,f_id=614195,tax_id=56921        1 FW    823:   862   9.68e-08 ../coll/intron-mito.all
+GAGAGCCGTATGATG--GGCCA---CTACC-TAGTACGGTTC---------GGAGAGCACTGTAGTCAGTCATTTGGGAATTCTCCCAACTGTTTGCTGAGCGAACAGCGAGTGAACGACAAATCATTTATAGATAGATTTCCGGGAWTTGWTYAGAATCGTCAGAGA
+>Spha.fa-nad5-i03---.mt  Plant,f_id=6736564,tax_id=53036       1 FW   2603:  2643   1.00e-07 ../coll/intron-mito.all
+AGGAGCCGTATGAGG--TGGAA---GCCTC-ACGTACGGTTT--------TGAAGCCAAGCCGTTCCAGCAATAGAACGGCTTAGGGACCnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Timm.ba-nad5-i03---.mt  Plant,f_id=6736594,tax_id=65532       1 FW   2551:  2591   1.00e-07 ../coll/intron-mito.all
+AGGAGCCGTATGAGG--CGGAA---GCCTC-ACGTACGGTTT--------TGAAGCCAAGCCGTTCCAGCAATGGAACGCCTTAGGAACCnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Rhac.pu-nad5-i03---.mt  Plant,f_id=6736604,tax_id=52993       1 FW   2557:  2597   1.00e-07 ../coll/intron-mito.all
+AGGAGCCGTATGAGG--CGGAA---GCCTC-ACGTACGGTTT--------TGAAGCCAAGCCGTTCCAGCGATGGAACGGCTTAGGAACCnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Enca.st-nad5-i03---.mt  Plant,f_id=6736574,tax_id=81092       1 FW   2551:  2591   1.00e-07 ../coll/intron-mito.all
+AGGAGCCGTATGAGG--CGGAA---GCCTC-ACGTACGGTTT--------TGAAGCCAAGCCGTTCCAGCGATGGAACGCTTAGGGACCnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Ulot.cr-nad5-i03---.mt  Plant,f_id=6736584,tax_id=140636      1 FW   2558:  2598   1.00e-07 ../coll/intron-mito.all
+AGGAGCCGTATGAGG--CGGAA---GCCTC-ACGTACGGTTT--------TGAAGCCAAGCCGTTCCAGCAATGGAACGGCTTAGGAACCnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Marc.po-atp1-i02---.mt  Plant,f_id=404280,tax_id=3197         1 FW   2820:  2863   1.12e-07 ../coll/intron-mito.all
+GGGAGCCGGATGAGGG-AGAAAT--TTCTC-ACGTCCGGATCT-------TTGAGAGCCTCCGGGCTACTCTCTnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Anth.ag-nad5-i01---.mt  Plant,f_id=6737088,tax_id=41834       1 FW    710:   749   1.27e-07 ../coll/intron-mito.all
+GTGAGCCGTGTGATG--GGCGA---CCATC-CTGCATGGTTC---------GGAGAGCACTTGATTATGTCACTTGGGTGAACGGCCGCTYTATGGCAGTACAAGGAAGAAGCCGGCTTGATTCGCAAAATCAAGGGCCCAGTGAATGAACTATTGACTTTGCnnnnn
+>Isoe.du------i03---.mt  Plant,f_id=614187,tax_id=56743        1 FW    274:   313   1.32e-07 ../coll/intron-mito.all
+GAGAGCCGTATGATG--GGCAA---CCACC-ACGCACGGTCC---------GGAGAGCACAGTCTTCTTCGCTGCTAGCGGCGAATGAACCTCCGATCCTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Pinu.pi-nad1-i02---.mt  Plant,f_id=6035247,tax_id=71647       1 FW   2158:  2202   1.33e-07 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGCCCTG----ACCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Pinu.pi-nad1-i02---.mt  Plant,f_id=6035255,tax_id=71647       1 FW   2127:  2171   1.33e-07 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGCCCTG----ACCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Pinu.pi-nad1-i02---.mt  Plant,f_id=6035239,tax_id=71647       1 FW   2124:  2168   1.33e-07 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGCCCTG----ACCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Pinu.sy-nad1-i02---.mt  Plant,f_id=419290,tax_id=3349         1 FW   2323:  2367   1.33e-07 ../coll/intron-mito.all
+ACGAGCCACATGCAG--GGAAA---CTTGC-ACGTGTGGCCCTG----ACCGGGGACCCCGGTATAnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Leuc.gl------i02---.mt  Plant,f_id=614883,tax_id=94688        1 FW    896:   935   1.37e-07 ../coll/intron-mito.all
+GAGAGCCGTGTGATG--GGTAA---CCATC-TCACACGGCTC---------GGGGAGCACTTTATTATGTGATGCGAGTGGATGTGTAAAGCATAGCTGGCATCAATTAAATTTTGACTCTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Timm.ba-nad5-i01---.mt  Plant,f_id=6736590,tax_id=65532       1 FW    696:   735   1.61e-07 ../coll/intron-mito.all
+GTGAGCCGTGTGATA--GGTAA---CTATC-TCACACGGTCC---------GGGGAGCACTTTATTATTTTACTTGGGTGAACGGCCGCCGCATTGCCGTATGCAAAAAATTTCCTGCTTGATTTTGCGATTCAAGGCCCCAGTAAAATAAAACTTTTGACCCTGTnn
+>Andr.ro-cox2-i01---.mt  Plant,f_id=434363,tax_id=50745        1 FW   1217:  1256   2.05e-07 ../coll/intron-mito.all
+GTGAGCAGTACGAGC--TGAAA---GGTTC-CCATACTGTTC---------GGAGGGCAGGGAGGGCTTATATGTTTTTCCTGACCCCTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Dich.pe------i02---.mt  Plant,f_id=614874,tax_id=98482        1 FW    890:   929   2.24e-07 ../coll/intron-mito.all
+GAGAGCCGTGTGATG--GGTGA---CCATC-TCACACGGCTC---------GGAGAGCACTTTATTATATGATGCGAGTGAATGTGTACAGCATATCTGGTATCAATTAATTTTTGACTCTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Pice.ab-nad1-i02---.mt  Plant,f_id=473488,tax_id=3329         1 FW   1984:  2028   2.83e-07 ../coll/intron-mito.all
+ACGAGCCACATACAG--GGAAA---CTTGC-ACGTGTGGTCCTG----ACCGGGGACCCCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Adia.sp-nad1-i02---.mt  Plant,f_id=6737348,tax_id=254646      1 FW   1329:  1368   2.90e-07 ../coll/intron-mito.all
+GAGAGCCATATGCAC--GGCGA---CGTGC-TTGTATGGTTT---------GGAGAGGACTTGGCGCACACTGATCTTGTTGATTGGTAGAAAGGCTTCACTCCTTnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gymn.re-cox2-i01---.mt  Plant,f_id=434357,tax_id=81812        1 FW   1308:  1351   3.06e-07 ../coll/intron-mito.all
+GAGAGCTGTCTGCGG--GGAAA---CTTGC-AAGTACAGTTTGG-----TGGGAGGCGTATAAGACCTTGGGACCAAGGACTGGCCGTCGACCCAACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Aspl.ni-nad5-i02-II.mt  Plant,f_id=406964,tax_id=29642        1 FW   1749:  1792   3.08e-07 ../coll/intron-mito.all
+GGAAGCCGTATGAGG--CGGAA---GCTTC-ACGTACGGTTTTG-----AAGCCGGGCCTTTCCAGCAGCAATGGGGCGGCCTAGGGACCnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Anth.ag------i01---.mt  Plant,f_id=614167,tax_id=41834        1 FW   1303:  1342   3.29e-07 ../coll/intron-mito.all
+GAGAGCTGTATAATG--GGCGA---CTATC-TAGTACGGTTC---------GGAGAGCACAATGGTAGGTCATTCTGAAATTCTCTCAACTCTTCGCTTAGCGAACAGCGAGTGAACGCCAGCCTTGCTGCACGGCGGCTCGGTGAACAAATTTTGACTCTATnnnnn
+>Phae.ca-nad1-i02---.mt  Plant,f_id=6737489,tax_id=185665      1 FW    520:   562   3.37e-07 ../coll/intron-mito.all
+GTGAGCCGTATGAGG--GGAAA---CTATT-ACGTATGGTTCA------GAGGGCGGCGGCTTTCTTGTTTGTGGTCTGACCCTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Arab.th-cox2-i01---.mt  Plant,f_id=6736141,tax_id=3702        1 RC     36:    75   3.97e-07 ../coll/intron-mito.all
+GTGAGCAGTACGAGC--TGAAA---GGCTC-CCATACTGTTT---------GGAGGGCAGGGGGCATAGATGCCAAAGAAAGCTGACCCCTAnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Rusc.ac-cox2-i01---.mt  Plant,f_id=6020562,tax_id=59067       1 FW   2129:  2168   4.20e-07 ../coll/intron-mito.all
+GTGAGCAGTACGAGC--TGAAA---GGCTC-TCATACTGTTT---------GGAGGGCAGGGGCATAGATGCCAAACCTGACCCCTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Anth.cr-nad5-i01-II.mt  Plant,f_id=425243,tax_id=44107        1 FW   2311:  2350   4.72e-07 ../coll/intron-mito.all
+GTGAGCCGTGTAATA--GGCGA---CTATT-TCGCGCGGTTC---------GGAGAGCACTTCCTTAAGCCTAAAATAGGCTCAAGTCTTGACCCTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Pyla.li-rnl--i04---.mt  Protista,f_id=7018962,tax_id=2885     1 FW    891:   937   5.01e-07 ../coll/intron-mito.all
+AGGAGCCGTATGAAT--GGAGA---CATTC-ACGTACGGTTTTGG--AGTAGCAGGATATATGGTAACATGTACTTGACTATAAGnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Equi.ar-nad1-i03---.mt  Plant,f_id=6737343,tax_id=3258        1 FW   1482:  1526   5.88e-07 ../coll/intron-mito.all
+GGGAGCCGTATGGGC---GATAA--CGTCC-ACGTACGGCTCTG----TGAGAAGGGCGGTAGACGGAAATGGCCATCGTACCTTACTCTCGnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Equi.te-nad1-i01-II.mt  Plant,f_id=425631,tax_id=3260         1 FW   1474:  1518   5.88e-07 ../coll/intron-mito.all
+GGGAGCCGTATGGGC---GATAA--CGTCC-ACGTACGGCTCTG----TGAGAAGGGCGGTAGACGGAAATGGCCATCGTACCTTACTCTCGnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Phae.la------i01---.mt  Plant,f_id=614175,tax_id=37308        1 FW   1305:  1344   6.52e-07 ../coll/intron-mito.all
+GAGAGCCGTATAATG--GGCGA---CTATC-TAGCACGGTTC---------GGGGAGCACAATGGTCGCGGAAATTCAACTGTTCGCTTAGCGAGCAGCGAGTGAACGACAGCCTTGCTGGTTCGGTGAACGAACAACTTTTGACCCTATnnnnnnnnnnnnnnnnnn
+>Beta.vu-cox2-i01---.mt  Plant,f_id=83,tax_id=3555             1 FW   1405:  1444   6.97e-07 ../coll/intron-mito.all
+GAGAGCTTTTTGCGG--GGAAA---CTTGC-AAGTACAGTTT---------GGGGGGAGGCGGGCGTCGACCCAACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Petu.hy-cox2-i01---.mt  Plant,f_id=2142,tax_id=4102           1 FW   1295:  1334   6.97e-07 ../coll/intron-mito.all
+GAGAGCTTTTTGCGG--GGAAA---CTTGC-AAGTACAGTTT---------GGGGGGAGGCGGGCGTCGACCCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Nymp.al-cox2-i01---.mt  Plant,f_id=126312,tax_id=34301        1 FW   1272:  1311   6.97e-07 ../coll/intron-mito.all
+GAGAGCTTTTTGCGG--GGAAA---CTTGC-AAGTACAGTTT---------GGGGGGAGACGGGCGTCGACCCAACCTnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Aven.sa-cox2-i01---.mt  Plant,f_id=20241,tax_id=4498          1 FW   1248:  1287   6.97e-07 ../coll/intron-mito.all
+GAGAGCTTTTTGCGG--GGAAA---CTTGC-AAGTACAGTTT---------GGGGGGAGGCGGGCGTCGACCCAACCTnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Heli.an-cox2-i01---.mt  Plant,f_id=14046,tax_id=4232          1 FW   1276:  1315   6.97e-07 ../coll/intron-mito.all
+GAGAGCTTTTTGCGG--GGAAA---CTTGC-AAGTACAGTTT---------GGGGGGAGACGGGCGTCGACCCAACCTnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Beta.vu-cox2-i01---.mt  Plant,f_id=400005,tax_id=3555         1 FW   1403:  1442   6.97e-07 ../coll/intron-mito.all
+GAGAGCTTTTTGCGG--GGAAA---CTTGC-AAGTACAGTTT---------GGGGGGAGGCGGGCGTCGACCCAACCTnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Petu.hy-cox2-i01---.mt  Plant,f_id=2160,tax_id=4102           1 FW   1296:  1335   6.97e-07 ../coll/intron-mito.all
+GAGAGCTTTTTGCGG--GGAAA---CTTGC-AAGTACAGTTT---------GGGGGGAGGCGGGCGTCGACCCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Quer.ru-rps3-i01---.mt  Plant,f_id=473569,tax_id=3512         1 FW   1521:  1560   7.87e-07 ../coll/intron-mito.all
+GAGAGCCGTGTGATG--GGTTA---TTGTC-CAGCACGGTTC---------GGAGAGCACTTTTAGTCTGCGTTGGTGAATGGAAGCCCCCCCTATCAAGCAAGAAAGAAGCGGCTCTTCCCACGGCGGAGTCACCATTGACTCTATnnnnnnnnnnnnnnnnnnnnn
+>Dauc.ca-cox2-i01---.mt  Plant,f_id=4697,tax_id=4039           1 FW   1294:  1333   7.97e-07 ../coll/intron-mito.all
+GAGAGCTTTTTGCGG--GGAAA---CTTGC-AAGTACAGTTT---------GGAGGGAGGCGGGCGTCGACCCAACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Oryz.sa-cox2-i01---.mt  Plant,f_id=1801,tax_id=4530           1 FW   1205:  1244   8.43e-07 ../coll/intron-mito.all
+GAGAGCTTTTTGCGG--GGAAA---CTTGC-AAGTAAAGTTT---------GGGGGGAGGCGGGCGTCGACCCAACCTnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Spha.re-cox2-i01---.mt  Plant,f_id=434368,tax_id=81808        1 FW   1400:  1439   8.81e-07 ../coll/intron-mito.all
+GTGAGCAGTACGAGC--TGAAA---GGCTC-CCATACTGTTT---------GGAGGGCAGAGGAAGGAGGGTTACCCCTTGTCAATTTGACCTCTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Dauc.ca-cox2-i02---.mt  Plant,f_id=4699,tax_id=4039           1 FW    999:  1038   8.81e-07 ../coll/intron-mito.all
+GTGAGCAGTACGAGC--TGAAA---GGCTC-CCATACTGTTT---------GGAGGGCAGGGGGCATAGATGCCAAACAAACCTGACCCCTCTnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Bras.ca-nad4-i02---.mt  Plant,f_id=681,tax_id=3711            1 FW   2541:  2583   9.40e-07 ../coll/intron-mito.all
+GAAAGCCGTATGATAGGTGGTAA--CTATC-TTGTACGGTTC---------GGGGGGTAATCGGCGTACTCCGGGAGAAATCTTTCGCTCTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Schi.po-cob--i01---.mt  Fungi,f_id=400622,tax_id=4896         1 FW   2444:  2487   1.61e-06 ../coll/intron-mito.all
+GAGAGCCGTATAATTA-CGAAA---GTATC-CCGTACGGTTCG------GTGACGAGCCGTGTCAACCCTGCAAAGGGAATGCGTCTTAGTTCAATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Schi.po-cob--i01---.mt  Fungi,f_id=473042,tax_id=4896         1 FW   2444:  2487   1.61e-06 ../coll/intron-mito.all
+GAGAGCCGTATAATTA-CGAAA---GTATC-CCGTACGGTTCG------GTGACGAGCCGTGTCAACCCTGCAAAGGGAATGCGTCTTAGTTCAATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Rhod.sa-cox1-i01---.mt  Protista,f_id=6090731,tax_id=52970    1 FW   4016:  4056   1.76e-06 ../coll/intron-mito.all
+GAAAGCCCAATGCCG--GGAAAA--CTGGC-ACGTTGGGTTT---------GGGAGCAGATTCCTGCCAGTAATGGTAGTTATCGAGTTCAGnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Anth.ag-nad5-i04---.mt  Plant,f_id=6737097,tax_id=41834       1 FW   2201:  2241   1.97e-06 ../coll/intron-mito.all
+AAAAGCCGTATGAGG--CGGAA---GCCTC-ACGTATGGTTT--------TGAAGCCGAGCCGTGCCAGCAATGGGGCGGCTTAGGGACCnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Schi.oc-cox1-i04---.mt  Fungi,f_id=6060780,tax_id=4899        1 FW   2545:  2584   2.53e-06 ../coll/intron-mito.all
+GAGAGCCATGTGATT--GGTAA---CAATC-TTGCATGGTTC---------GGTGGGAGCTTTGGTCTTATAAATGCTAATTCTAATATTTATTAGAAATTCGTAAGATTCAATTCGACCCAATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Ulot.cr------i02---.mt  Plant,f_id=614892,tax_id=140636       1 FW    907:   947   2.89e-06 ../coll/intron-mito.all
+GAGAGCCGTGTGATG--GGTGA---CCATC-TCACACGGCTC--------AGGGAGCACTTTATTATGTGATGCGAGTGAATGTGTACGGCATAGCTGGCATCAATTAAATTTTGACTCTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Noto.br-cox2-i01---.mt  Plant,f_id=434343,tax_id=81810        1 FW   2567:  2610   3.70e-06 ../coll/intron-mito.all
+GAGAGCTGTTTGCGG--GGAAA---CTTGT-AAGTACAGTTTGG-----TGGGAGGCGGCGGGCGGCGGATGGACCACCCTTGGAAACGAAAATTGGCCGTCGACCCAACCnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Recl.am-trnW-i01-II.mt  Protista,f_id=6098216,tax_id=48483    1 FW    453:   493   3.73e-06 ../coll/intron-mito.all
+TAGAGCTGCATGCAA--TGAAA---GTTGC-ACGTGCAGTTC--------TTAAAGATATTAATGGTGATAATGACATTAATATCTTTAACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Bras.ca-nad4-i03---.mt  Plant,f_id=682,tax_id=3711            1 FW    643:   682   4.85e-06 ../coll/intron-mito.all
+GTGAGCCTAGTGATA--GGAGA---CTATC-TAGCTTGGTTC---------GGAGAGCACTTGTTGGGTTAAAGACTTTTTTTGTTGCTAAATGTTACAGCCTAAATGCTGAACTATTGACTCTAnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Chon.cr-trnI-i01-II.mt  Protista,f_id=467393,tax_id=2769      1 RC     29:    71   8.18e-06 ../coll/intron-mito.all
+CGAAGCTGTATGATA--AGAAA---CTATC-ATGTACAGTTTA------CTGCAAAGGTATAATTTAATTTATATCGATTGCAACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Anth.ag-nad1-i02---.mt  Plant,f_id=6737472,tax_id=41834       1 FW    510:   552   9.13e-06 ../coll/intron-mito.all
+GTGAGCCGTATGATG--GGAAA---CTATT-ACGTATGTTTTA------GAGGGCGGCTTTCTGGTCCGACTCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Char.vu-nad3-i02-II.mt  Plant,f_id=6214151,tax_id=55564       1 RC     60:    98   9.72e-06 ../coll/intron-mito.all
+GAAAGCCGTGTGATG--TACGA----CATC-TTGCACGGTTT---------GGTGGGCACTTTAGTAGACTGGACGGGTGAACGGGCAACCGTTGCAGTGGAACTTTTGACCCAATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Magn.gr-cox2-i01---.mt  Plant,f_id=13704,tax_id=3406          1 FW   1269:  1308   1.37e-05 ../coll/intron-mito.all
+GAGAGCTTTTTGCGG--GGAAA---CTTGC-AACTACAGTTT---------GGGGGGAGACGGGCGTCGACCCAACCTnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Chae.gl-trnN-i01---.mt  Plant,f_id=6059690,tax_id=96477       1 RC      1:    41   1.38e-05 ../coll/intron-mito.all
+AAGAGCCGTGTGCTT--GGAAAA--CTTGC-ACGCACGGTTC---------GTAAGTnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Trit.ae-cox2-i01---.mt  Plant,f_id=400627,tax_id=4565         1 FW   1157:  1196   1.42e-05 ../coll/intron-mito.all
+GAGAGCTTTTTGCGG--GGAAA---CTTGC-AAGTCAAGTTT---------GGGGGGAGGCGGGCGTCGACCCAACCTnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Trit.ae------i01---.mt  Plant,f_id=618159,tax_id=4565         1 FW   1168:  1207   1.42e-05 ../coll/intron-mito.all
+GAGAGCTTTTTGCGG--GGAAA---CTTGC-AAGTCAAGTTT---------GGGGGGAGGCGGGCGTCGACCCAACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Gnet.gn------i01---.mt  Plant,f_id=614143,tax_id=3382         1 FW    981:  1021   1.46e-05 ../coll/intron-mito.all
+TCGAGCCACATGCAG--GGAAA---CTCGC-ATGTGTGGTCC--------TGGCCGCCTTCGGTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Oryz.sa-rpl2-i01---.mt  Plant,f_id=400908,tax_id=39947        1 FW    590:   631   1.51e-05 ../coll/intron-mito.all
+GAAAGCCGTATGCTT--TGGAA---GAAGC-TTGTACAGTTTG-------GGAAGGGGTTTTTTGAGAGAAAAGAAGAATCTAATTTCAAnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Marc.po-cox2-i02---.mt  Plant,f_id=404263,tax_id=3197         1 FW   2691:  2729   1.55e-05 ../coll/intron-mito.all
+GTGAGCCGTAGCACG---GTGA----CGTGCTCATACGGTTC---------GGAGAGCACTTGAGTAATCTTATAATGAGGTGAAATTTTTACTCTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Acor.ca-cox2-i01---.mt  Plant,f_id=421779,tax_id=4465         1 FW    404:   448   3.32e-05 ../coll/intron-mito.all
+GAAAGCTTGTTGCGG--GGAAAC--GTCGC-AAGTCAAGTTTGG-----TGGGAGGCAGGCGTCTACCCAACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Isoe.du------i04---.mt  Plant,f_id=614189,tax_id=56743        1 FW    324:   363   5.47e-05 ../coll/intron-mito.all
+GAGAGCCGCATGTGG--GGAAA---CTCGC-CAGCACGGTTT---------GGAGGAACGGCCTCTGCTCTGGCCCCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Rhiz.sp-cox1-i11-II.mt  Fungi,f_id=619181,tax_id=60187        1 FW   1242:  1283   9.05e-05 ../coll/intron-mito.all
+GAGAGCCGTATGCTT--GGAAA---CTTGC-ACGTACTGGTTC-------GGGAAAGGTTTTTAGACTAATGGGATAACTGGGGTCTAACTACTATTTCACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Sola.tu-nad2-i03---.mt  Plant,f_id=424832,tax_id=4113         1 FW   2279:  2321   5.10e-04 ../coll/intron-mito.all
+AAAAGCCGTCTGATG--GAAAACAACTTTC-ACGTTCGGTTC---------AGAGAGCACTTTTTTCGTTGAGAATTCCTCGTTCCCTTTCGTGTGAATTCCCCAGCGGCGAATTTCAAACTTGTGGGGCCCTATCTATTCCATCTCTCGAGCCCCGAAGAAAACCCC
+>Phae.la------i02---.mt  Plant,f_id=614177,tax_id=37308        1 FW   2271:  2310   8.15e-04 ../coll/intron-mito.all
+GTGAGTCGTATAATG--GGCGA---CTATC-TTCTGTGGTTC---------GGAGAGGACTCAGTACCCTGAGGCACGAGACTTTCACTCTATnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Nico.sy-nad7-i02---.mt  Plant,f_id=16737,tax_id=4096          1 FW   1335:  1374   9.80e-04 ../coll/intron-mito.all
+GAGAGCCGTGTTATG--GGTGA----CCTTATTGCACGGTTC---------AGAGAGCACTTGTGTATGTGATGCAAGTGAACGTCTACGAAAAAGCTGTCGTAAAGTTTCGTTCTTCGTTCCGTCGTCGACCCTATCnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Meso.vi-nad3-i01---.mt  Plant,f_id=7029330,tax_id=41882       1 FW     46:    93   2.14e-03 ../coll/intron-mito.all
+TGAAGCTGTGGGAACAATTAAAAAAAGTTC-ATGCACAGTTTT------TTGGACCGATTTTTTATTTCTAAAATTTTGGATCCTACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+>Oryz.sa-rpl2-i01---.mt  Plant,f_id=408811,tax_id=39947        1 FW   1417:  1452   8.91e-03 ../coll/intron-mito.all
+AAGAGCCGTACGAGG----C-----TGCTC-ACGTACGGTTC---------GGGAGCCGAGCCACTGCACAGGGGCTTAGGTCAACnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
