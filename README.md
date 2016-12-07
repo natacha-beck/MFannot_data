@@ -3,10 +3,10 @@
 This package is based on activities of the [OGMP](http://megasun.bch.umontreal.ca/ogmp/) (i.e, priori to 2002), and
 becomes open source as part of [MFannot](http://megasun.bch.umontreal.ca/RNAweasel/).
 
-This repository contain all the data needed by MFannot to run. That's include the following:
+This repository contains all the data needed by MFannot to run. That's includes the following:
 
-- The `EGC` directory contain all Genetic Code Table in `EGC.*` files.
-- `config` directory contain:
+- The `EGC` directory contains all Genetic Code Table in `EGC.*` files.
+- `config` directory contains:
   - `.mfannot_external_programs.conf` is used by MFAnnot to allow it to run external programs.
   [HMMsearchWrapper and HMMCombiner](https://github.com/BFL-lab/HMMsearchWC) is used to find rns and rnl.
   [RNAfinder](https://github.com/BFL-lab/RNAfinder) is used to find tRNAs, rnpB, rrn5, group I introns, and group II introns.
@@ -18,9 +18,9 @@ This repository contain all the data needed by MFannot to run. That's include th
     - `id_by_gene` it contains HMM models for gene, this method of identification is used by MFannot only if the identification by [BLAST](ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/) failed.
   - `Splice` contains 2 `*.mod` files used by MFannot in order to identify splice site of group I introns or splice site of group II introns. And a `neutral.pssm` used to define neutral splice site for [exonerate](https://github.com/nathanweeks/exonerate).
 - The `protein_collections` contains:
-  - `identified` directory that contain `*.faa` used by MFannot to identified gene by [BLAST](ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/).
-  - `intronic_orfs.pep` contain a list of intronic orfs used by MFannot to identify them.
-  - `family.lib` contain list of family.
+  - `identified` directory that contains `*.faa` used by MFannot to identified gene by [BLAST](ftp://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/).
+  - `intronic_orfs.pep` contains a list of intronic orfs used by MFannot to identify them.
+  - `family.lib` contains list of family.
 
 ## Install
 
